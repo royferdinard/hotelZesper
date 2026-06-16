@@ -1,0 +1,1448 @@
+{
+ 
+  "+254 700 000000": "+254 700 000000",
+  "+254 706 145498": "+254 706 145498",
+  "⏱ {service.duration} mins": "⏱ {service.duration} dakika",
+  "✔": "✔",
+  "✔ 24/7 security and event support staff": "✔ wafanyikazi wa usaidizi wa usalama na hafla 24/7",
+  "✔ Air conditioning and proper ventilation": "✔ Kiyoyozi na uingizaji hewa sahihi",
+  "✔ Aromatherapy & wellness sessions": "✔ Vipindi vya Aromatherapy na ustawi",
+  "✔ Aromatherapy sessions": "✔ Vipindi vya Aromatherapy",
+  "✔ Available in different sizes": "✔ Inapatikana kwa ukubwa tofauti",
+  "✔ Backup power supply for uninterrupted events": "✔ Hifadhi nakala ya usambazaji wa nishati kwa matukio ambayo hayakatizwi",
+  "✔ Banquets & gala dinners": "✔ Karamu na chakula cha jioni",
+  "✔ Calm and private environment": "✔ Mazingira tulivu na ya kibinafsi",
+  "✔ Catering and refreshment services available": "✔ Huduma za upishi na viburudisho zinapatikana",
+  "✔ Clean modern washrooms": "✔ Safisha vyumba vya kuosha vya kisasa",
+  "✔ Comfortable VIP seating and lounge area": "✔ Kukaa vizuri kwa VIP na eneo la kupumzika",
+  "✔ Corporate meetings & conferences": "✔ Mikutano na mikutano ya shirika",
+  "✔ Digital Smart Tv": "✔ Digital Smart Tv",
+  "✔ Facial & skincare treatments": "✔ Matibabu ya uso na ngozi",
+  "✔ Free and String wifi": "✔ Bure na Wifi ya Kamba",
+  "✔ Free cooking facilities eg. electric cooker": "✔ Vifaa vya kupikia bure k.m. jiko la umeme",
+  "✔ Freshly prepared ingredients": "✔ Viungo vilivyotayarishwa upya",
+  "✔ High-speed free Wi-Fi access": "✔ Ufikiaji wa Wi-Fi ya kasi ya juu bila malipo",
+  "✔ How can I cancel my reservation?": "✔ Ninawezaje kughairi uhifadhi wangu?",
+  "✔ How can I reset my password?": "✔ Ninawezaje kuweka upya nenosiri langu?",
+  "✔ How do I book a room?": "✔ Je, ninapangaje chumba?",
+  "✔ How do I contact hotel support?": "✔ Je, nitawasilianaje na usaidizi wa hoteli?",
+  "✔ Large LED screens and projector setup": "✔ Skrini kubwa za LED na usanidi wa projekta",
+  "✔ Luxury King bed with 2 blankets and a mosquito net": "✔ Kitanda cha kifahari cha Mfalme chenye mablanketi 2 na chandarua",
+  "✔ Mini fridge and blender": "✔ Friji ndogo na blender",
+  "✔ Modern coffe machine": "✔ Mashine ya kisasa ya kahawa",
+  "✔ Modern lighting and decoration options": "✔ Chaguzi za kisasa za taa na mapambo",
+  "✔ Modern wash room an toilet": "✔ Chumba cha kuosha kisasa na choo",
+  "✔ Perfect for events & relaxation": "✔ Ni kamili kwa hafla na kupumzika",
+  "✔ Premium taste quality": "✔ Ubora wa ladha bora",
+  "✔ Professional massage therapy": "✔ Tiba ya kitaalamu ya massage",
+  "✔ Professional sound system and microphones": "✔ Mfumo wa sauti wa kitaalamu na maikrofoni",
+  "✔ Relaxing full-body massage": "✔ Kupumzisha massage ya mwili mzima",
+  "✔ Secure parking space for guests": "✔ Hifadhi nafasi ya maegesho kwa wageni",
+  "✔ Served chilled": "✔ Imetolewa kwa baridi",
+  "✔ Skin rejuvenation treatments": "✔ Matibabu ya kurejesha ngozi",
+  "✔ Spacious and fully furnished event hall": "✔ Ukumbi mkubwa wa hafla na samani kamili",
+  "✔ Stress relief & relaxation": "✔ Kupumzika kwa mafadhaiko na kupumzika",
+  "✔ VIP sofa sets with a coffee table": "✔ Seti za sofa za VIP zilizo na meza ya kahawa",
+  "✔ Weddings & private celebrations": "✔ Harusi na sherehe za kibinafsi",
+  "1234 5678 9012 3456": "1234 5678 9012 3456",
+  "24-hour services": "Huduma za saa 24",
+  "24/7 Borrowers Support": "Msaada wa Wakopaji 24/7",
+  "24/7 Service": "24/7 Huduma",
+  "A → Z": "A → Z",
+  "a-z": "a-z",
+  "Adress": "Anwani",
+  "Allow Search Engines": "Ruhusu Injini za Utafutaji",
+  "Appearance": "Muonekano",
+  "Ask anything...": "Uliza chochote...",
+  "bar": "baa",
+  "Best Drinks": "Vinywaji Bora",
+  "Booked At": "Imehifadhiwa Kwa",
+  "Booking Id": "Kitambulisho cha Kuhifadhi",
+  "Booking Summary": "Muhtasari wa Kuhifadhi",
+  "Cancellation allowed before preparation starts": "Kughairi kunaruhusiwa kabla ya maandalizi kuanza",
+  "Cancellation policy applies depending on room type": "Sera ya kughairi inatumika kulingana na aina ya chumba",
+  "card": "kadi",
+  "Card Number": "Nambari ya Kadi",
+  "cash": "fedha taslimu",
+  "Check In": "Ingia",
+  "Check Out": "Angalia",
+  "Check-in time: 2:00 PM": "Muda wa kuingia: 2:00 PM",
+  "Check-out time: 11:00 AM": "Muda wa kutoka: 11:00 AM",
+  "complaint": "malalamiko",
+  "Confirm password": "Thibitisha nenosiri",
+  "Contact Information": "Maelezo ya Mawasiliano",
+  "Current Password": "Nenosiri la Sasa",
+  "Dark Mode": "Hali ya Giza",
+  "Delivery time depends on location": "Wakati wa utoaji unategemea eneo",
+  "Discover comfort and luxury at our hotel, where every stay feels special.": "Gundua starehe na anasa katika hoteli yetu, ambapo kila kukaa kunahisi kuwa maalum.",
+  "Discover our location and contact information to reach us easily.": "Gundua eneo letu na maelezo ya mawasiliano ili utufikie kwa urahisi.",
+  "Discover premium drinks, a relaxing atmosphere, and unforgettable moments.": "Gundua vinywaji vya ubora, mazingira ya kustarehesha na matukio yasiyoweza kusahaulika.",
+  "Doe": "Doe",
+  "Drink": "Kunywa",
+  "edulibrary2026@gmail.com": "edulibrary2026@gmail.com",
+  "Email Notifications": "Arifa za Barua Pepe",
+  "Enter number of guest": "Weka nambari ya mgeni",
+  "event": "tukio",
+  "events": "matukio",
+  "Expiry Date": "Tarehe ya kumalizika muda wake",
+  "Explore our luxurious rooms, dining, experiences, and unforgettable hotel moments.": "Gundua vyumba vyetu vya kifahari, mikahawa, hali ya matumizi na matukio ya hotelini yasiyoweza kusahaulika.",
+  "feedback": "maoni",
+  "Find us": "Tupate",
+  "Find Us": "Tupate",
+  "French": "Kifaransa",
+  "Fresh preparation on order": "Maandalizi mapya kwa utaratibu",
+  "Full or partial payment may be required in advance": "Malipo kamili au sehemu yanaweza kuhitajika mapema",
+  "Guest": "Mgeni",
+  "Have a question or need help, contact us in the links below.": "Una swali au unahitaji usaidizi, wasiliana nasi katika viungo vilivyo hapa chini.",
+  "high-low": "juu-chini",
+  "Hotel Zesper Logo": "Nembo ya Hoteli ya Zesper",
+  "hotelzesper.com": "hotelzesper.com",
+  "How can we help you?": "Je, tunaweza kukusaidia vipi?",
+  "Input your picture!": "Ingiza picha yako!",
+  "John": "Yohana",
+  "john@example.com": "john@example.com",
+  "Just moment...": "Muda mfupi tu...",
+  "Kenya (KES)": "Kenya (KES)",
+  "Ksh {booking.drink.price}": "Ksh {booking.drink.price}",
+  "Ksh {booking.event.price}": "Ksh {booking.event.price}",
+  "Ksh {booking.service.price}": "Ksh {booking.service.price}",
+  "Ksh. {service.price}": "Ksh. {service.price}",
+  "Ksh.{booking.room.price}": "Ksh.{booking.room.price}",
+  "Ksh.{drink.price}": "Ksh.{drink.price}",
+  "Language & Region": "Lugha na Eneo",
+  "Login to access bookings and services": "Ingia ili upate nafasi na huduma",
+  "low-high": "chini-juu",
+  "Message sent successfully": "Ujumbe umetumwa kwa mafanikio",
+  "Migori-Rongo sub County, Kenya": "Kaunti ndogo ya Migori-Rongo, Kenya",
+  "Minimum age of 18 years for booking": "Umri wa chini wa miaka 18 kwa kuweka nafasi",
+  "MM/YY": "MM/YY",
+  "mpesa": "mpesa",
+  "Must be 18+ for alcoholic drinks (if applicable)": "Ni lazima uwe na umri wa miaka 18+ kwa vinywaji vyenye vileo (ikiwa inatumika)",
+  "Name": "Jina",
+  "Name: A → Z": "Jina: A → Z",
+  "No Booking Found": "Hakuna Uhifadhi Uliopatikana",
+  "Number of Guests": "Idadi ya Wageni",
+  "Number of Sessions": "Idadi ya Vikao",
+  "Order Now": "Agiza Sasa",
+  "Ordered At": "Imeagizwa Kwa",
+  "Orders may require upfront payment": "Huenda maagizo yakahitaji malipo ya mapema",
+  "other": "nyingine",
+  "Our Leadership": "Uongozi Wetu",
+  "Payment Method": "Njia ya Malipo",
+  "Payment Methods": "Mbinu za Malipo",
+  "Please select any room of your chioce from the featured rooms. Click": "Tafadhali chagua chumba chochote cha chioce wako kutoka kwa vyumba vilivyoangaziwa. Bofya",
+  "popup": "ibukizi",
+  "preview": "hakikisho",
+  "Price": "Bei",
+  "Price: High → Low": "Bei: Juu → Chini",
+  "Price: Low → High": "Bei: Chini → Juu",
+  "Push Notifications": "Arifa za Push",
+  "Region / Currency": "Eneo / Sarafu",
+  "reservation": "uhifadhi",
+  "Restaurant Dining": "Chakula cha Mgahawa",
+  "Room": "Chumba",
+  "Search drinks...": "Tafuta vinywaji...",
+  "Search events...": "Tafuta matukio...",
+  "Search FAQs...": "Tafuta Maswali Yanayoulizwa Mara kwa Mara...",
+  "Search spa services...": "Tafuta huduma za spa...",
+  "Security": "Usalama",
+  "Select Language": "Chagua Lugha",
+  "Send Reset Link": "Tuma Kiungo cha Kuweka Upya",
+  "Service hours": "Saa za huduma",
+  "Sessions": "Vikao",
+  "Settings": "Mipangilio",
+  "Share Activity Data": "Shiriki Data ya Shughuli",
+  "Show Profile Publicly": "Onyesha Wasifu Hadharani",
+  "SMS Notifications": "Arifa za SMS",
+  "Sort By": "Panga Kwa",
+  "Sort FAQs": "Panga Maswali Yanayoulizwa Mara kwa Mara",
+  "spa": "spa",
+  "Spa Service": "Huduma ya Spa",
+  "Swahili": "kiswahili",
+  "Testimonial Type": "Aina ya Ushuhuda",
+  "The Event you have selected might have been removed or even does not exist in our feartured event. Click": "Tukio ulilochagua huenda limeondolewa au hata halipo katika tukio letu la kutisha. Bofya",
+  "The room you have selected might have been removed or even does not exist in our feartured room. Click": "Chumba ulichochagua kinaweza kuwa kimeondolewa au hata hakipo katika chumba chetu cha kutisha. Bofya",
+  "This field is required!": "Sehemu hii inahitajika!",
+  "to select and book a room.": "kuchagua na kuhifadhi chumba.",
+  "to select another room.": "kuchagua chumba kingine.",
+  "Total Amount": "Jumla ya Kiasi",
+  "UK (GBP)": "Uingereza (GBP)",
+  "USA (USD)": "Marekani (USD)",
+  "Valid ID or Passport required at check-in": "Kitambulisho halali au Pasipoti inahitajika wakati wa kuingia",
+  "View the most ordered drinks in our store": "Tazama vinywaji vilivyoagizwa zaidi kwenye duka letu",
+  "Why Our Drink": "Kwa nini Kinywaji Chetu",
+  "Write your review...": "Andika ukaguzi wako...",
+  "You have not booked any room. Click": "Hujahifadhi chumba chochote. Bofya",
+  "Your Country": "Nchi yako",
+  "Your Full Name": "Jina lako Kamili",
+  "Your Role": "Wajibu Wako",
+  "Z → A": "Z → A",
+  "Zesper Chatbot": "Chatbot ya Zesper",
+  "Testimonials": "Maoni",
+  "Gallery": "Picha",
+  "Meet our leadership team, the driving force behind the smooth and efficient running of Hotel Zesper.": "Kutana na timu yetu ya uongozi, nguvu inayoendesha ufanisi na uendeshaji mzuri wa Hotel Zesper.",
+
+  "Simon": "Simon",
+  "Executive Manager": "Meneja Mkuu Mtendaji",
+  "Senior Chef": "Mpishi Mkuu",
+  "Reservation Manager": "Meneja wa Uhifadhi",
+
+  "At Hotel Zesper, we are dedicated to delivering more than just a stay — we create exceptional experiences defined by comfort, elegance, and genuine hospitality. Every guest is welcomed with warmth and treated with personalized care to ensure memorable moments from arrival to departure. Welcome to Luxury, comfort, service, business, relaxation.": "Katika Hotel Zesper, tumejikita kutoa zaidi ya malazi tu — tunaunda uzoefu wa kipekee unaoongozwa na starehe, umaridadi na ukarimu wa kweli. Kila mgeni hupokelewa kwa upendo na kuhudumiwa kwa huduma binafsi ili kuhakikisha kumbukumbu nzuri kuanzia kuwasili hadi kuondoka. Karibu katika anasa, starehe, huduma, biashara na mapumziko.",
+
+  "As the Operations Manager at Hotel Zesper, I am dedicated to ensuring every guest enjoys a smooth, comfortable, and memorable experience. From exceptional service to seamless operations, our commitment is to deliver hospitality that exceeds expectations from arrival to departure.": "Kama Meneja wa Uendeshaji wa Hotel Zesper, nimejikita kuhakikisha kila mgeni anapata huduma laini, starehe na ya kukumbukwa. Kuanzia huduma bora hadi uendeshaji usio na dosari, dhamira yetu ni kutoa ukarimu unaozidi matarajio kuanzia kuwasili hadi kuondoka.",
+
+  "As the Senior Chef at Hotel Zesper, I am committed to crafting exceptional culinary experiences that blend flavor, freshness, and creativity. I warmly invite you to join us and enjoy delicious meals prepared with passion and served with excellence, creating unforgettable dining moments filled with taste, warmth, satisfaction, and joy.": "Kama Mpishi Mkuu wa Hotel Zesper, nimejitolea kuandaa uzoefu wa kipekee wa vyakula unaochanganya ladha, ubora na ubunifu. Nakualika kwa furaha ujumuike nasi na kufurahia milo tamu iliyoandaliwa kwa mapenzi na kuhudumiwa kwa ubora, ikileta kumbukumbu za chakula zilizojaa ladha na furaha.",
+
+  "As the Reservation Manager at Hotel Zesper, I warmly welcome you to book your stay with us and experience seamless reservations, exceptional comfort, and outstanding hospitality. From the moment you reserve your room, our commitment is to ensure a smooth, convenient, and memorable experience tailored to your needs.": "Kama Meneja wa Uhifadhi wa Hotel Zesper, nakukaribisha kwa moyo mkunjufu uweke nafasi ya kukaa nasi na kufurahia huduma rahisi za uhifadhi, starehe ya hali ya juu na ukarimu bora. Kuanzia unapoweka nafasi, dhamira yetu ni kuhakikisha huduma laini, rahisi na ya kukumbukwa inayokidhi mahitaji yako.",
+  "Why": "Kwa nini",
+  "Why Zesper": "Kwa nini Zesper",
+
+  "Experience the perfect blend of comfort, elegance, and warm hospitality that makes every stay truly special.": "Furahia mchanganyiko kamili wa starehe, umaridadi na ukarimu wa hali ya juu unaofanya kila kukaa kuwa maalum.",
+
+  "Comfortable Rooms": "Vyumba vya Starehe",
+  "Relax in our well-furnished and spacious rooms designed to give you maximum comfort, privacy, and a peaceful stay experience.": "Pumzika katika vyumba vyetu vilivyo na samani na wasaa vilivyoundwa kukupa starehe ya hali ya juu, faragha na mazingira tulivu ya kukaa.",
+
+  "24/7 Customer Service": "Huduma kwa Wateja 24/7",
+  "Our friendly staff is always available around the clock to assist you with anything you need for a smooth and enjoyable stay.": "Wafanyakazi wetu wenye urafiki wanapatikana saa zote kukusaidia chochote unachohitaji ili kukaa kwa urahisi na kufurahisha.",
+
+  "Enjoy delicious local and international cuisines prepared by our professional chefs in a warm and elegant dining environment.": "Furahia vyakula vitamu vya ndani na kimataifa vilivyoandaliwa na wapishi wetu wa kitaalamu katika mazingira ya kifahari na ya kupendeza.",
+
+  "We provide safe and spacious parking facilities to ensure your vehicle is secure throughout your stay.": "Tunatoa maegesho salama na ya wasaa kuhakikisha gari lako liko salama wakati wote wa kukaa kwako.",
+
+  "Conference Hall": "Ukumbi wa Mikutano",
+  "Host meetings, events, and corporate gatherings in our fully equipped, modern conference facilities designed for productivity and comfort.": "Fanya mikutano, matukio na shughuli za kampuni katika ukumbi wetu wa kisasa uliokamilika kwa vifaa vya hali ya juu kwa tija na starehe.",
+
+  "Laundry Services": "Huduma ya Kufua Nguo",
+  "Keep your clothes fresh and clean with our fast and reliable laundry and dry-cleaning services available during your stay.": "Weka nguo zako safi na nadhifu kwa huduma zetu za haraka na za kuaminika za kufua na kusafisha nguo wakati wa kukaa kwako.",
+
+  "Swimming Pool": "Dimbwi la Kuogelea",
+  "Unwind and relax in our clean and refreshing swimming pool, perfect for leisure, fitness, or a peaceful afternoon escape.": "Pumzika katika bwawa letu safi la kuogelea linalofaa kwa starehe, mazoezi au mapumziko ya amani mchana.",
+
+  "Fitness Center": "Kituo cha Mazoezi",
+  "Stay active during your visit with our fully equipped gym, designed to help you maintain your fitness routine while traveling.": "Endelea kuwa na afya wakati wa ziara yako kwa gym yetu iliyo na vifaa kamili kukusaidia kudumisha mazoezi yako hata ukiwa safarini.",
+   "Our story": "Hadithi yetu",
+
+  "is a serene and elegant destination nestled in a breathtaking hilltop location, offering a perfect blend of modern comfort and natural tranquility. Designed to provide a unique escape from the ordinary, our hotel features top-tier amenities and 24-hour services that cater to both business and leisure travelers. Every corner of Hotel Zesper reflects its own character, creating a distinctive atmosphere that sets us apart and ensures a memorable experience for every guest.": "ni mahali tulivu na maridadi palipo kwenye eneo la kilima lenye mandhari ya kuvutia, likitoa mchanganyiko kamili wa starehe za kisasa na utulivu wa asili. Imebuniwa kutoa njia ya kipekee ya kutoroka maisha ya kawaida, hoteli yetu ina huduma za kiwango cha juu na huduma za saa 24 zinazowahudumia wasafiri wa biashara na burudani. Kila kona ya Hoteli Zesper inaonyesha upekee wake, ikitengeneza mazingira ya kipekee yanayotutofautisha na kuhakikisha uzoefu wa kukumbukwa kwa kila mgeni.",
+
+  "We pride ourselves on delivering personalized hospitality, where every guest’s comfort and satisfaction come first. Our commitment goes beyond service—we aim to build lasting relationships by understanding and exceeding expectations. Guided by a passionate team and inspired by the rich traditions of our local community, Hotel Zesper continues to offer exceptional experiences that make every stay truly special and unforgettable.": "Tuna fahari kutoa ukarimu wa kibinafsi ambapo starehe na kuridhika kwa mgeni ni kipaumbele. Dhamira yetu inaenda zaidi ya huduma—tunalenga kujenga mahusiano ya kudumu kwa kuelewa na kuzidi matarajio. Tukiongozwa na timu yenye shauku na kuhamasishwa na mila tajiri za jamii yetu ya eneo, Hoteli Zesper inaendelea kutoa uzoefu wa kipekee unaofanya kila kukaa kuwa maalum na isiyosahaulika.",
+
+  "Driven by a passionate team and inspired by the rich traditions of our local community, Hotel Zesper continues to stand out as a place where comfort, culture, and exceptional service come together—making every stay not just enjoyable, but truly unforgettable.": "Ikiendeshwa na timu yenye shauku na kuhamasishwa na mila tajiri za jamii yetu ya eneo, Hoteli Zesper inaendelea kujitofautisha kama mahali ambapo starehe, utamaduni na huduma bora hukutana—ikifanya kila kukaa si tu kufurahisha bali pia kuwa cha kukumbukwa.",
+  "Drink Rewards Program": "Programu ya Zawadi za Vinywaji",
+  "Earn points every time you order drinks and unlock free rewards.": "Pata pointi kila unapoomba kinywaji na fungua zawadi za bure.",
+
+  "Download menu": "Pakua menyu",
+
+  "✔ Every drink earns points": "✔ Kila kinywaji hupata pointi",
+  "✔ 100 points = free cocktail": "✔ Pointi 100 = cocktail ya bure",
+  "✔ VIP members get double points": "✔ Wanachama wa VIP hupata pointi mara mbili",
+
+  "Guest Member": "Mwanachama Mgeni",
+
+  "33/100 points to next reward": "Pointi 33/100 kufikia zawadi inayofuata",
+   "Out of Stock": "Imeisha Stokini",
+  "No": "Hakuna",
+  "available at this moment!": "zinazopatikana kwa sasa!",
+   "Top": "Juu",
+  "Categories": "Kategoria",
+  "Find your desired drink based on the categories": "Pata kinywaji unachotaka kulingana na kategoria",
+
+  "Soft Drink": "Vinywaji Baridi",
+
+  "Hight quality and first calssed cocktail drinks": "Visa vya ubora wa juu na vya kiwango cha kwanza",
+  "Pure and high quality wine with zero percent drink mixture.": "Mvinyo safi na wa ubora wa juu bila mchanganyiko wowote wa asilimia ya pombe.",
+  "Pocket friendly and good for non-alcoholic consumers": "Bei nafuu na yanafaa kwa wasiotumia pombe",
+  "Juices is blended on your arrival to avoid loosing taste": "Juisi huchanganywa unapofika ili kuepuka kupoteza ladha",
+   "Search drinks": "Tafuta vinywaji",
+
+  "Drink Categories": "Kategoria za Vinywaji",
+
+  "Mocktails": "Visa visivyo na pombe",
+  "Wine": "Divai",
+  "Whiskey": "Whiskey",
+  "Vodka": "Vodka",
+  "Beer": "Bia",
+  "Hot Drinks": "Vinywaji vya moto",
+  "Energy Drinks": "Vinywaji vya kuongeza nguvu",
+  "Classic Drinks": "Vinywaji vya asili",
+
+  "Sort Drinks": "Panga Vinywaji",
+  "Shampeign": "Shampeign",
+  "Lemon Juice": "Juisi ya Ndimu",
+  "Vice Roy Cocktail": "Cocktail ya Vice Roy",
+  "Monin Syrup Drink": "Kinywaji cha Sharubati ya Monin",
+
+  "Premium Drinks": "Vinywaji vya kiwango cha juu",
+  "Juices": "Juisi",
+  "Cocktails": "Visa",
+  "Soft Drinks": "Vinywaji baridi",
+
+  "A premium sparkling drink crafted for celebrations, offering a crisp, elegant taste perfect for special occasions.": "Kinywaji cha kifahari chenye mng’ao kilichotengenezwa kwa ajili ya sherehe, kikitoa ladha safi na ya kifahari inayofaa kwa matukio maalum.",
+
+  "Freshly squeezed lemons blended into a refreshing citrus drink, perfect for boosting energy and hydration.": "Ndimu safi zilizokamuliwa na kutengenezwa kuwa kinywaji cha kuburudisha cha machungwa, kinachofaa kuongeza nguvu na mwili kuwa na maji ya kutosha.",
+
+  "A smooth and balanced cocktail mix with a rich flavor profile, ideal for evening relaxation and social gatherings.": "Mchanganyiko laini na wenye uwiano mzuri wa cocktail wenye ladha tajiri, unaofaa kwa kupumzika jioni na mikusanyiko ya kijamii.",
+
+  "A sweet and flavorful soft drink infused with premium Monin syrup for a smooth and refreshing taste experience.": "Kinywaji kitamu cha kuburudisha kilichochanganywa na sharubati bora ya Monin kwa ladha laini na ya kuburudisha.",
+  "why Choose Our Drinks": "Kwa Nini Uchague Vinywaji Vyetu",
+  "Discore the secret behind the flavour of our drinks": "Gundua siri ya ladha ya vinywaji vyetu",
+
+  "Premium Cocktails": "Visa vya Kipekee",
+  "Enjoy expertly crafted cocktails made with premium spirits, fresh ingredients, and unique flavors for an unforgettable experience.": "Furahia visa vilivyotengenezwa kwa ustadi kwa kutumia pombe bora, viambato safi, na ladha za kipekee kwa uzoefu usiosahaulika.",
+
+  "Luxury Atmosphere": "Mazingira ya Kifahari",
+  "Relax in a stylish and elegant environment designed to give you comfort, class, and a memorable nightlife experience.": "Pumzika katika mazingira ya kifahari na maridadi yaliyoandaliwa kukupa starehe, hadhi, na uzoefu wa usiku wa kukumbukwa.",
+
+  "Wide Drink Selection": "Chaguo Kubwa la Vinywaji",
+  "Choose from a wide variety of wines, whiskies, cocktails, beers, and non-alcoholic beverages tailored to every taste.": "Chagua kutoka kwa aina nyingi za divai, whisky, visa, bia, na vinywaji visivyo na kilevi vilivyotayarishwa kukidhi kila ladha.",
+
+  "Live Entertainment": "Burudani ya Moja kwa Moja",
+  "Experience exciting live music, DJ performances, and special events that keep the energy vibrant all night long.": "Furahia muziki wa moja kwa moja, maonyesho ya DJ, na matukio maalum yanayodumisha burudani usiku kucha.",
+
+  "No Results Found": "Hakuna Matokeo Yaliyopatikana",
+  "currently has no matching blog posts. Please try another category or search keyword.": "kwa sasa hakuna machapisho ya blog yanayolingana. Tafadhali jaribu kategoria nyingine au neno la utafutaji tofauti.",
+
+  "Blogs": "Makala",
+  "Blog Posts": "Makala ya Blogu",
+
+  "Search": "Tafuta",
+
+  "Dining": "Chakula",
+  "Luxury stay": "Makazi ya kifahari",
+  "Ceremonies": "Sherehe",
+  "Celebration": "Sherehe maalum",
+  "Valentine": "Siku ya Wapendanao",
+  "Meetings": "Mikutano",
+  "Wedding": "Harusi",
+
+  "Like": "Penda",
+  "Unlike": "Sipendi",
+  "Comment": "Maoni",
+  "Share": "Shiriki",
+  "Notification": "Arifa",
+  "Search blogs...": "Tafuta makala...",
+  "Filter": "Chuja",
+  "Sort": "Panga",
+  "High-Low Subscription": "Usajili mkubwa hadi mdogo",
+  "High-Low Likes": "Pendo nyingi hadi chache",
+  "High-Low Followers": "Wafuasi wengi hadi wachache",
+
+  "Successfully liked the post 👍👍": "Umeipenda chapisho 👍👍",
+  "Successfully unliked the post 👎👎": "Umeondoa kupenda chapisho 👎👎",
+  "Successfully ❤️❤️❤️": "Umeipenda ❤️❤️❤️",
+  "Successfully 💔💔💔": "Umeondoa upendo 💔💔💔",
+  "Successfully Followed the post": "Umefuata chapisho kwa mafanikio",
+  "Successfully Unfollowed the post": "Umeacha kufuata chapisho",
+  "Successfully subscribed to the post": "Umejisajili kwa chapisho",
+  "Successfully unsubscribe to the post": "Umejiondoa kwenye usajili wa chapisho",
+  "Successfully viewed the post": "Umeangalia chapisho",
+  "Successfully unViewed the post": "Umeondoa alama ya kuangalia chapisho",
+  "Successfully activated notification bell": "Arifa zimewashwa kwa mafanikio",
+  "Successfully disactivated notification bell": "Arifa zimezimwa kwa mafanikio",
+
+  "Follow": "Fuata",
+  "Followed": "Umefuata",
+  "Subscribed": "Umejisajili",
+  "View": "Tazama",
+  "Viewed": "Umeangaliwa",
+
+  "Subscribe Button": "Kitufe cha Kujisajili",
+  "View Button": "Kitufe cha Kutazama",
+  "Like Button": "Kitufe cha Kupenda",
+  "Comment Button": "Kitufe cha Maoni",
+  "Share Button": "Kitufe cha Kushiriki",
+
+  "Posted by": "Imewekwa na",
+  "Close": "Funga",
+
+  "Blog Post": "Chapisho la Blogu",
+  
+  "Luxury Weekend Experience at Hotel Zesper": "Uzoefu wa Mwisho wa Wiki wa Kifahari Hotel Zesper",
+  "Grace Wanjiku": "Grace Wanjiku",
+  "June 4, 2026": "Juni 4, 2026",
+  "Luxury Stay": "Makazi ya Kifahari",
+  "Enjoy a premium luxury experience with elegant suites, spa relaxation and unforgettable moments.": "Furahia uzoefu wa kifahari wenye vyumba vya hali ya juu, spa na matukio ya kipekee.",
+  "At Hotel Zesper, every weekend transforms into a luxury escape. Guests enjoy premium suites, spa sessions, breathtaking dining experiences, personalized room service, rooftop relaxation and luxury accommodations crafted for unforgettable comfort. Whether for family vacations, romantic getaways or solo relaxation, Hotel Zesper creates lasting memories.": "Hotel Zesper kila wikendi hubadilika kuwa mapumziko ya kifahari yenye spa, vyumba vya kifahari, huduma za kipekee na mazingira ya kupumzika yasiyosahaulika.",
+
+  "Dream Wedding Destination": "Eneo la Ndoto la Harusi",
+  "Hotel Zesper Events Team": "Timu ya Matukio Hotel Zesper",
+  "May 30, 2026": "Mei 30, 2026",
+  "Celebrate your dream wedding in elegance and luxury.": "Sherehe ya harusi ya ndoto kwa uzuri na anasa.",
+  "Hotel Zesper offers world-class wedding venues with elegant decoration, luxury dining, premium accommodation and event planning services tailored to create unforgettable wedding experiences.": "Hotel Zesper inatoa maeneo ya harusi ya kiwango cha juu yenye mapambo ya kifahari, chakula bora na huduma za kupanga matukio.",
+
+  "Premium Dining Experience": "Uzoefu wa Chakula wa Kipekee",
+  "Chef Amanda": "Mpishi Amanda",
+  "May 26, 2026": "Mei 26, 2026",
+  "Dinning": "Chakula",
+  "Taste unforgettable breakfast, lunch and dinner experiences.": "Furahia kifungua kinywa, chakula cha mchana na cha jioni kisichosahaulika.",
+  "Our chefs craft exceptional dishes from fresh premium ingredients. Guests enjoy luxury dining spaces, professional hospitality and unforgettable culinary moments.": "Wapishi wetu hutengeneza vyakula vya ubora wa juu kwa viungo safi katika mazingira ya kifahari.",
+   "Ready to book your stay?": "Je, uko tayari kuweka nafasi ya kukaa kwako?",
+  "Join hundreds of tourists who enjoy our luxury environment and premium hospitality.": "Jiunge na mamia ya watalii wanaofurahia mazingira yetu ya kifahari na ukarimu wa hali ya juu.",
+
+   "Get In Touch": "Wasiliana Nasi",
+  "Have a question or need assistance? We’re here to help.": "Una swali au unahitaji usaidizi? Tuko hapa kukusaidia.",
+
+  "Location": "Mahali",
+  "Hours": "Saa",
+
+  "Kisii-Nyanchwa Sub County, Kenya": "Kaunti Ndogo ya Kisii-Nyanchwa, Kenya",
+  "+254 739 279531": "+254 739 279531",
+  "hotelZesper@gmail.com": "hotelZesper@gmail.com",
+  "24/7 Customer Support": "Huduma kwa Wateja 24/7",
+  "Our Location": "Eneo Letu",
+  "Find us on the map below": "Tupate kwenye ramani hapa chini",
+  "Hotel Zesper Location": "Mahali pa Hotel Zesper",
+   "Event Amenities": "Vifaa vya Matukio",
+  "Everything you need to host a perfect event with comfort, luxury, and style.": "Kila unachohitaji kuandaa tukio kamili lenye starehe, anasa na mtindo.",
+
+  "A spacious and elegantly designed hall suitable for weddings, conferences, and large celebrations.": "Ukumbi mkubwa na uliobuniwa kwa umaridadi unaofaa kwa harusi, mikutano na sherehe kubwa.",
+
+  "Beautifully decorated raised stage perfect for wedding ceremonies, speeches, and special moments.": "Jukwaa lililopambwa kwa umaridadi linalofaa kwa sherehe za harusi, hotuba na matukio maalum.",
+
+  "High-quality sound system and dynamic lighting setup to enhance every event experience.": "Mfumo wa sauti wa ubora wa juu na mwanga wa kisasa unaoboresha uzoefu wa kila tukio.",
+
+  "On-site catering services offering customized menus, buffet setups, and fine dining experiences.": "Huduma za chakula ndani ya eneo zikitoa menyu maalum, buffet na uzoefu wa vyakula vya kifahari.",
+
+  "Private and comfortable lounge space for VIP guests, organizers, and special attendees.": "Eneo la faragha na starehe kwa wageni wa VIP, waandaaji na wageni maalum.",
+
+  "Professional decoration services including floral arrangements, themed setups, and elegant styling.": "Huduma za kitaalamu za mapambo zikiwemo maua, mandhari maalum na urembo wa kisasa.",
+   "Premium Event & Conference Hosting": "Huduma za Kifahari za Matukio na Mikutano",
+  "Host unforgettable events, weddings, meetings, and conferences in our elegant and fully equipped venues.": "Andaa matukio yasiyosahaulika, harusi, mikutano na makongamano katika maeneo yetu ya kifahari yaliyo na vifaa kamili.",
+
+  "Download Packages": "Pakua Vifurushi",
+
+  "Event Services": "Huduma za Matukio",
+  "Weddings & private celebrations": "Harusi na sherehe za kibinafsi",
+  "Corporate meetings & conferences": "Mikutano ya kampuni na makongamano",
+  "Banquets & gala dinners": "Karamu na chakula cha jioni cha kifahari",
+
+  "Event Experience": "Uzoefu wa Matukio",
+  "Create memorable moments with modern venues, professional planning, and premium hospitality.": "Tengeneza kumbukumbu zisizosahaulika kwa kutumia maeneo ya kisasa, mipango ya kitaalamu na ukarimu wa hali ya juu.",
+
+  "100% seamless event execution ✨": "Utekelezaji wa matukio bila dosari ✨",
+ 
+
+  "Grand Event Hall": "Ukumbi Mkubwa wa Matukio",
+  "Wedding Platform Stage": "Jukwaa la Harusi",
+  "Modern Audio & Lighting System": "Mfumo wa Kisasa wa Sauti na Mwanga",
+  "Luxury Dining & Catering": "Huduma ya Chakula ya Kifahari",
+  "VIP Lounge Area": "Eneo la VIP",
+  "Decor & Event Styling": "Mapambo na Urembo wa Matukio",
+   "Event Not Found": "Tukio halijapatikana",
+  "The Event you have selected might have been removed or does not exist in our featured events. Click Back To Events to select another event.": "Tukio ulilochagua linaweza kuwa limeondolewa au halipo katika matukio yetu yaliyoangaziwa. Bofya Rudi kwenye Matukio kuchagua tukio lingine.",
+
+  "← Back to Events": "← Rudi kwenye Matukio",
+
+  "This event venue is well styled, ventilated and suitable for first-class guests with modern luxury facilities.": "Ukumbi wa tukio hili umebuniwa vizuri, una hewa ya kutosha na unafaa kwa wageni wa daraja la juu wenye huduma za kisasa za kifahari.",
+
+  "Event Facilities": "Vifaa vya Tukio",
+  "Spacious and fully furnished event hall": "Ukumbi mkubwa na uliokamilika kwa samani",
+  "High-speed free Wi-Fi access": "Wi-Fi ya kasi ya juu bila malipo",
+  "Professional sound system and microphones": "Mfumo wa sauti wa kitaalamu na maikrofoni",
+  "Large LED screens and projector setup": "Skrini kubwa za LED na projekta",
+  "Modern lighting and decoration options": "Taa na mapambo ya kisasa",
+  "Comfortable VIP seating and lounge area": "Viti vya VIP na eneo la kupumzika",
+  "Air conditioning and proper ventilation": "Kiyoyozi na uingizaji hewa sahihi",
+  "Catering and refreshment services available": "Huduma za chakula na vinywaji zinapatikana",
+  "Secure parking space for guests": "Maegesho salama kwa wageni",
+  "Clean modern washrooms": "Vyoo safi vya kisasa",
+  "Backup power supply for uninterrupted events": "Nishati mbadala kwa matukio yasiyokatizwa",
+  "24/7 security and event support staff": "Usalama wa saa 24 na wafanyakazi wa msaada wa matukio",
+
+  "Event Booking Requirements": "Masharti ya Kuhifadhi Tukio",
+  "Valid ID or organization details required for booking": "Kitambulisho halali au maelezo ya shirika yanahitajika kwa uhifadhi",
+  "Advance booking confirmation is required": "Uthibitisho wa uhifadhi wa mapema unahitajika",
+  "Full or partial deposit payment may be required": "Malipo ya amana kamili au sehemu yanaweza kuhitajika",
+  "Event setup and decoration time must be scheduled in advance": "Muda wa maandalizi na mapambo ya tukio lazima upangwe mapema",
+  "Maximum guest capacity must be followed": "Kiwango cha juu cha wageni lazima kiheshimiwe",
+  "Outside catering or vendors may require prior approval": "Huduma za nje za chakula au wauzaji zinaweza kuhitaji idhini ya awali",
+  "Damage to venue property may result in extra charges": "Uharibifu wa mali unaweza kusababisha gharama za ziada",
+  "Music and entertainment must comply with venue regulations": "Muziki na burudani lazima zifuate sheria za ukumbi",
+  "Cancellation or rescheduling policy applies": "Sera ya kughairi au kupanga upya inatumika",
+  "Event ending time must be respected": "Muda wa kumaliza tukio lazima uheshimiwe",
+
+  "Price per event": "Bei kwa tukio",
+  "Search events": "Tafuta matukio",
+  "Event Categories": "Kategoria za Matukio",
+  "Sort Events": "Panga Matukio",
+
+    "Luxury Wedding Ceremony": "Sherehe ya Harusi ya Kifahari",
+  "Corporate Conference": "Mkutano wa Kampuni",
+  "Executive Business Meeting": "Mkutano wa Kibiashara wa Watendaji",
+  "Birthday Celebration": "Sherehe ya Kuzaliwa",
+  "Anniversary Celebration": "Sherehe ya Maadhimisho",
+  "Baby Shower Celebration": "Sherehe ya Mtoto Mchanga",
+  "Graduation Party": "Sherehe ya Mahafali",
+  "Luxury Private Dinner": "Chakula cha Jioni cha Kifahari cha Faragha",
+  "Live Music Event": "Tukio la Muziki wa Moja kwa Moja",
+  "Professional Networking Event": "Tukio la Mitandao ya Kitaalamu",
+  "Valentine Special Dinner": "Chakula Maalum cha Siku ya Wapendanao",
+  "Luxury Gala Dinner Night": "Usiku wa Karamu ya Kifahari",
+  "Product Launch Event": "Tukio la Uzinduzi wa Bidhaa",
+
+  "Weddings": "Harusi",
+  "Conferences": "Mikutano",
+  "Corporate Meetings": "Mikutano ya Kampuni",
+  "Birthday Parties": "Sherehe za Kuzaliwa",
+  "Anniversary Celebrations": "Sherehe za Maadhimisho",
+  "Baby Showers": "Sherehe za Mtoto Mchanga",
+  "Graduation Parties": "Sherehe za Mahafali",
+  "Private Dinners": "Chakula cha Jioni cha Faragha",
+  "Music Events": "Matukio ya Muziki",
+  "Networking Events": "Matukio ya Mitandao",
+  "Valentine Specials": "Matukio ya Siku ya Wapendanao",
+  "Luxury Events": "Matukio ya Kifahari",
+
+  "A beautifully curated wedding experience with elegant décor, premium catering, and a breathtaking venue setup designed for your perfect day.":
+    "Uzoefu wa harusi uliopambwa kwa umaridadi na mapambo ya kifahari, chakula bora na mpangilio wa kipekee wa ukumbi kwa siku yako maalum.",
+
+  "Professional meeting spaces equipped with modern AV systems, high-speed internet, and full support for seamless business events.":
+    "Vyumba vya mikutano vya kitaalamu vilivyo na mifumo ya kisasa ya sauti na picha, intaneti ya kasi na msaada kamili wa matukio ya biashara.",
+
+  "Private meeting rooms designed for executives, strategy sessions, and professional business gatherings.":
+    "Vyumba vya faragha vya mikutano kwa viongozi, mikakati na mikusanyiko ya kitaalamu ya biashara.",
+
+  "Celebrate your special day with customized décor, music, catering, and a lively atmosphere tailored just for you.":
+    "Sherehekea siku yako maalum kwa mapambo ya kipekee, muziki, chakula na mazingira ya furaha yaliyobinafsishwa.",
+
+  "Create unforgettable memories with romantic décor, premium dining, and elegant event setups.":
+    "Tengeneza kumbukumbu zisizosahaulika kwa mapambo ya kimapenzi, chakula cha kifahari na mpangilio wa kipekee.",
+
+  "Celebrate your growing family with themed décor, catering, and a cozy venue for loved ones.":
+    "Sherehekea familia yako inayokua kwa mapambo maalum, chakula na ukumbi wa starehe kwa wapendwa.",
+
+  "Celebrate academic success with a stylish party setup, food, music, and entertainment.":
+    "Sherehekea mafanikio ya masomo kwa mpangilio wa kisasa, chakula, muziki na burudani.",
+
+  "Exclusive dining experiences for intimate celebrations, romantic dinners, or VIP guests.":
+    "Uzoefu wa chakula wa kipekee kwa sherehe za karibu, chakula cha kimapenzi au wageni wa VIP.",
+
+  "Host energetic live performances with premium sound systems and luxury event spaces.":
+    "Andaa maonyesho ya moja kwa moja yenye nguvu kwa mifumo bora ya sauti na maeneo ya kifahari.",
+
+  "Premium venue spaces for connecting professionals, startups, and business leaders.":
+    "Maeneo ya kifahari ya kukutanisha wataalamu, start-ups na viongozi wa biashara.",
+
+  "Romantic candlelight setups and luxury dining experiences for couples.":
+    "Mpangilio wa mishumaa wa kimapenzi na uzoefu wa chakula cha kifahari kwa wapenzi.",
+
+  "An exclusive evening of fine dining, luxury ambiance, and entertainment for elite guests.":
+    "Usiku wa kipekee wa chakula cha hali ya juu, mazingira ya kifahari na burudani kwa wageni wa daraja la juu.",
+
+  "Showcase your brand with a powerful launch setup, stage design, lighting, and media-ready presentation spaces.":
+    "Onyesha chapa yako kwa uzinduzi wa nguvu, muundo wa jukwaa, taa na maeneo ya mawasilisho ya vyombo vya habari.",
+     "Featured Events": "Matukio Maalum",
+  "Explore our handpicked featured events designed to deliver exceptional experiences, entertainment, and unforgettable moments. Join us and enjoy world-class hospitality tailored to your needs.":
+    "Gundua matukio yetu maalum yaliyochaguliwa kwa uangalifu ili kukupa uzoefu wa kipekee, burudani na kumbukumbu zisizosahaulika. Jiunge nasi na ufurahie ukarimu wa kiwango cha kimataifa uliobinafsishwa kwa mahitaji yako.",
+
+  "View All Events": "Tazama Matukio Yote",
+   "No Events Found": "Hakuna Matukio Yaliyopatikana",
+  "There are currently no events available.": "Kwa sasa hakuna matukio yanayopatikana.",
+  "No {{category}} events available at the moment.": "Hakuna matukio ya {{category}} kwa sasa.",
+  "Events": "Matukio",
+
+  "Choose your room type, arrival details, and special requests.": "Chagua aina ya chumba, maelezo ya kuwasili na maombi maalum.",
+  "Select from refreshments, wine, cocktails, or minibar service.": "Chagua vinywaji baridi, divai, visa au huduma ya minibar.",
+  "Book weddings, conferences, birthdays and special events.": "Weka nafasi kwa harusi, mikutano, sherehe za kuzaliwa na matukio maalum.",
+  "Relax and enjoy premium spa wellness treatments.": "Pumzika na ufurahie huduma za spa za ustawi wa hali ya juu.",
+
+  "Room type": "Aina ya chumba",
+  "Check-in": "Kuingia",
+  "Check-out": "Kutoka",
+  "Special requests": "Maombi maalum",
+
+  "Drink package": "Kifurushi cha vinywaji",
+  "Arrival time": "Muda wa kuwasili",
+  "Special notes": "Maelezo maalum",
+
+  "Event type": "Aina ya tukio",
+  "Event date": "Tarehe ya tukio",
+  "Duration": "Muda wa tukio",
+  "Event notes": "Maelezo ya tukio",
+
+  "Spa service": "Huduma ya spa",
+  "Therapist preference": "Upendeleo wa mtoa huduma",
+  "Spa date": "Tarehe ya spa",
+  "Spa time": "Muda wa spa",
+  "Spa notes": "Maelezo ya spa",
+
+  "Select drink": "Chagua kinywaji",
+  "Select event": "Chagua tukio",
+  "select spa": "chagua spa",
+  "Any": "Yeyote",
+  "Male": "Mwanaume",
+  "Female": "Mwanamke",
+
+  "Room type is required": "Aina ya chumba inahitajika",
+  "Guests is required": "Idadi ya wageni inahitajika",
+  "Check-in is required": "Tarehe ya kuingia inahitajika",
+  "Check-out is required": "Tarehe ya kutoka inahitajika",
+  "Special requests is required": "Maombi maalum yanahitajika",
+
+  "Drink package is required": "Kifurushi cha vinywaji kinahitajika",
+  "Arrival time is required": "Muda wa kuwasili unahitajika",
+  "Quantity is required": "Kiasi kinahitajika",
+  "Special notes is required": "Maelezo maalum yanahitajika",
+
+  "Event type is required": "Aina ya tukio inahitajika",
+  "Event guests is required": "Idadi ya wageni wa tukio inahitajika",
+  "Event date is required": "Tarehe ya tukio inahitajika",
+  "Duration is required": "Muda wa tukio unahitajika",
+  "Event notes is required": "Maelezo ya tukio yanahitajika",
+
+  "Spa service is required": "Huduma ya spa inahitajika",
+  "Therapist preference is required": "Upendeleo wa mtoa huduma unahitajika",
+  "Spa date is required": "Tarehe ya spa inahitajika",
+  "Spa time is required": "Muda wa spa unahitajika",
+  "Spa guests is required": "Idadi ya wageni wa spa inahitajika",
+
+  "Guests must be at least 1": "Wageni lazima wawe angalau 1",
+  "Date cannot be in the past": "Tarehe haiwezi kuwa ya nyuma",
+
+  "Search Rooms": "Tafuta Vyumba",
+  "Search Drinks": "Tafuta Vinywaji",
+  "Search Events": "Tafuta Matukio",
+  "Search Spa": "Tafuta Spa",
+
+  "Search Rooms found successfully!": "Utafutaji wa vyumba umefanikiwa!",
+  "Search Drinks found successfully!": "Utafutaji wa vinywaji umefanikiwa!",
+  "Search Events found successfully!": "Utafutaji wa matukio umefanikiwa!",
+  "Search Spa found successfully!": "Utafutaji wa spa umefanikiwa!",
+
+  "Rooms not found": "Vyumba havijapatikana",
+  "Drinks not found": "Vinywaji havijapatikana",
+  "Events not found": "Matukio hayajapatikana",
+  "Spa not found": "Spa haijapatikana",
+  "Send Us a Message": "Tuma Ujumbe",
+  
+  "First Name": "Jina la Kwanza",
+  "Last Name": "Jina la Mwisho",
+  "Email Address": "Barua Pepe",
+  "Phone Number": "Nambari ya Simu",
+  "Subject": "Mada",
+  "Message": "Ujumbe",
+
+  "Select a subject": "Chagua mada",
+  "Booking Inquiry": "Uchunguzi wa booking",
+  "Feedback": "Maoni",
+  "Complaint": "Malalamiko",
+  "Other": "Nyingine",
+
+  "FirstName is required": "Jina la kwanza linahitajika",
+  "LastName is required": "Jina la mwisho linahitajika",
+  "Phone number is required": "Nambari ya simu inahitajika",
+  "Subject is required": "Mada inahitajika",
+  "Message is required": "Ujumbe unahitajika",
+
+  "Send Message": "Tuma Ujumbe",
+  "Sending...": "Inatuma...",
+
+  "Thanks for contacting us. Our team will call you soon": "Asante kwa kuwasiliana nasi. Timu yetu itakupigia simu hivi karibuni",
+   "Help & Support Center": "Kituo cha Msaada na Usaidizi",
+
+  "Need assistance? Find answers to common questions, contact support, or learn how to use our platform.": "Unahitaji msaada? Pata majibu ya maswali ya kawaida, wasiliana na msaada, au jifunze jinsi ya kutumia mfumo wetu.",
+
+  "Frequently Asked Questions": "Maswali Yanayoulizwa Mara kwa Mara",
+  "How do I book a room?": "Ninawekaje chumba?",
+  "How can I cancel my reservation?": "Ninawezaje kughairi booking yangu?",
+  "How do I contact hotel support?": "Ninawezaje kuwasiliana na huduma ya hoteli?",
+  "How can I reset my password?": "Ninawezaje kurekebisha nenosiri langu?",
+  "View FAQs": "Tazama Maswali",
+
+  "Contact Support": "Wasiliana na Msaada",
+  "Our support team is available 24/7 to assist you with bookings, account issues, and hotel services.": "Timu yetu ya msaada inapatikana masaa 24/7 kukusaidia na booking, matatizo ya akaunti, na huduma za hoteli.",
+
+  "+254 700 123 456": "+254 700 123 456",
+  "support@hotelzesper.com": "support@hotelzesper.com",
+  "Chat with Support": "Ongea na Msaada",
+
+  "Tip: Check FAQs first for faster solutions.": "Dokezo: Angalia Maswali kwanza kwa suluhisho la haraka",
+   "How do I book a service?": "Ninawezaje kuweka huduma?",
+  "Go to the services page, choose a service and click 'Book Now'.": "Nenda kwenye ukurasa wa huduma, chagua huduma kisha bonyeza 'Book Now'.",
+
+  "Can I cancel my booking?": "Je, naweza kughairi nafasi yangu?",
+  "Yes, you can cancel 24 hours before your appointment.": "Ndiyo, unaweza kughairi masaa 24 kabla ya miadi yako.",
+
+  "Do you offer refunds?": "Je, mnarudisha pesa?",
+  "Refunds are available based on our cancellation policy.": "Marejesho ya pesa yanapatikana kulingana na sera ya kughairi.",
+
+  "How do I contact support?": "Ninawezaje kuwasiliana na msaada?",
+  "Use the contact form or email our support team 24/7.": "Tumia fomu ya mawasiliano au tuma barua pepe kwa timu ya msaada masaa 24/7.",
+
+  "Do I need an account?": "Je, nahitaji akaunti?",
+  "Yes, an account is required to book services.": "Ndiyo, unahitaji akaunti ili kuweka huduma.",
+  "Our Bar": "Baa Yetu",
+  "Bar": "Baa",
+  "Explore cocktails, wines & exclusive drinks": "Gundua kokteli, mvinyo na vinywaji vya kipekee",
+  "Discover luxury hospitality, premium experiences and travel inspiration.": "Gundua huduma za kifahari za ukarimu, uzoefu wa kiwango cha juu na msukumo wa safari",
+
+  "Zesper": "Zesper",
+  "Contact Zesper": "Wasiliana na Zesper",
+  "Have a question or need help with a booking, our team is always here to assist you.": "Una swali au unahitaji msaada wa kuweka nafasi, timu yetu iko tayari kukusaidia wakati wowote.",
+  "Hotel Events & Experiences": "Matukio na Uzoefu wa Hoteli",
+  "Celebrate weddings, conferences, parties & more": "Sherehekea harusi, mikutano, sherehe na zaidi",
+  "Help": "Msaada",
+  "Center": "Kituo",
+  "Find answers or download our full services guide": "Pata majibu au pakua mwongozo wetu kamili wa huduma",
+  "Welcome to Hotel Zesper": "Karibu Hotel Zesper",
+  "Experience luxury and comfort in the heart of paradise. Discover our exquisite rooms and world-class amenities.": "Furahia anasa na starehe katikati ya paradiso. Gundua vyumba vyetu vya kipekee na huduma za kiwango cha dunia.",
+  "Go to slide {{number}}": "Nenda kwenye slaidi {{number}}",
+  "Previous slide": "Slaidi iliyotangulia",
+  "Next slide": "Slaidi inayofuata",
+  "Hotel room {{number}}": "Chumba cha hoteli {{number}}",
+   "Our Rooms": "Vyumba Vyetu",
+  "Host unforgettable weddings, conferences, and celebrations at Hotel Zesper.": "Fanya harusi, mikutano na sherehe zisizosahaulika katika Hotel Zesper.",
+   "Our Spa": "Spa Yetu",
+  "Spa": "Spa",
+  "Our": "Yetu",
+  "Relax, refresh, and rejuvenate in our luxury spa with soothing treatments designed for your comfort and wellness.": "Pumzika, jiburudishe na upate nguvu upya katika spa yetu ya kifahari yenye huduma za kutuliza zilizoundwa kwa starehe na afya yako.",
+   "Standard single room": "Chumba cha kawaida cha mtu mmoja",
+  "Deluxe room": "Chumba cha kifahari",
+  "Double deluxe room": "Chumba cha kifahari cha watu wawili",
+  "A cozy room with a single bed, perfect for solo travelers. Enjoy a comfortable stay with all the essential amenities.": "Chumba cha starehe chenye kitanda kimoja, kinachofaa kwa msafiri mmoja. Furahia makazi ya starehe yenye huduma muhimu zote.",
+  "Experience luxury in our Deluxe Room, featuring elegant decor, a plush queen bed, and modern amenities for a relaxing stay.": "Furahia anasa katika Chumba chetu cha Deluxe chenye mapambo ya kifahari, kitanda cha kifalme na huduma za kisasa kwa mapumziko ya starehe.",
+  "Perfect for families or groups, our Double Deluxe Room offers comfort and style with two plush queen beds and modern amenities.": "Kinachofaa kwa familia au makundi, Chumba chetu cha Double Deluxe kinatoa starehe na mtindo wenye vitanda viwili vya kifalme na huduma za kisasa.",
+  "Hi 👋 Welcome to Zesper Hotel! How can I help?": "Habari 👋 Karibu Hotel Zesper! Naweza kukusaidiaje?",
+  
+  "Rooms start from 💰 Ksh.1500 per night.": "Vyumba vinaanza kutoka 💰 Ksh.1500 kwa usiku.",
+
+  "Hello 👋 How can I help you today?": "Habari 👋 Naweza kukusaidiaje leo?",
+
+  "We are located in Kisii County, Nyanchwa sub-county 📍": "Tuko katika Kaunti ya Kisii, eneo la Nyanchwa 📍",
+
+  "Sorry, I didn’t understand. Ask me about Hotel Zesper 😊": "Samahani, sikuelewa. Uliza kuhusu Hotel Zesper 😊",
+
+  "We are located 🌍🌍 in kisii county, Nyanchwa sub-county. For more information email us at hotelzesper@gmail.com or call us at +254 739 279 531": "Tuko 🌍🌍 katika Kaunti ya Kisii, Nyanchwa sub-county. Kwa maelezo zaidi tuma barua pepe hotelzesper@gmail.com au piga simu +254 739 279 531",
+
+  "⏰Check-in is from 2PM.": "⏰Kuingia ni kuanzia saa 8:00 mchana (2PM).",
+
+  "Hello!😂😂 How can I help you?": "Habari!😂😂 Naweza kukusaidiaje?",
+
+  "You're welcome! Let me know if you have any other questions.": "Karibu! Nijulishe kama una maswali mengine.",
+
+  "Goodbye!🙌🙌 Have a great day!": "Kwaheri!🙌🙌 Uwe na siku njema.",
+
+  "We offer free 🛜 Wi-Fi, a fitness center, and a swimming pool.": "Tunatoa Wi-Fi bure 🛜, kituo cha mazoezi na bwawa la kuogelea.",
+
+  "You can make a reservation on our website or by calling our front desk.": "Unaweza kuweka nafasi kupitia tovuti yetu au kupiga simu mapokezi.",
+
+  "Our cancellation policy allows free cancellation up to 24 hours before check-in.": "Sera yetu ya kughairi inaruhusu kughairi bila malipo hadi masaa 24 kabla ya kuingia.",
+
+  "We have a free🚗🚗 parking lot available for our guests.": "Tuna maegesho ya bure 🚗🚗 kwa wageni wetu.",
+
+  "Our🍨🍨 on-site restaurant serves breakfast, lunch, and dinner.": "Mgahawa wetu 🍨🍨 unatoa kifungua kinywa, chakula cha mchana na cha jioni.",
+
+  "Our🏊‍♀️🏊‍♀️ swimming pool is open from 8 AM to 10 PM. They are a great place to relax and enjoy the sun. Children and adults swim in different areas.": "Bwawa letu 🏊‍♀️🏊‍♀️ linafunguliwa kuanzia saa 2 asubuhi hadi 4 usiku. Ni mahali pazuri kupumzika na kufurahia jua. Watoto na watu wazima huogelea maeneo tofauti.",
+
+  "Our🏋️‍♂️🏋️‍♂️ fitness center is open 24/7 and equipped with cardio machines, weights, and yoga mats.": "Kituo chetu cha mazoezi 🏋️‍♂️🏋️‍♂️ kiko wazi masaa 24/7 na kina vifaa vya cardio, weights na yoga mats.",
+
+  "Our spa offers a variety of treatments including massages, facials, and body wraps.": "Spa yetu inatoa huduma mbalimbali ikiwemo masaji, usoni na body wraps.",
+
+  "We have event spaces available for meetings, conferences, and social gatherings. Please contact our events team for more information.": "Tuna maeneo ya matukio kwa mikutano, conferences na mikusanyiko ya kijamii. Tafadhali wasiliana na timu yetu ya matukio kwa maelezo zaidi.",
+
+  "We are a pet-friendly hotel. Please contact us for our pet policy and any additional fees.": "Sisi ni hoteli rafiki kwa wanyama vipenzi. Tafadhali wasiliana nasi kwa sera ya wanyama na ada zozote za ziada.",
+
+  "👮👮We have a 24/7 security presence to ensure the safety of our guests.": "👮👮 Tuna ulinzi wa masaa 24/7 kuhakikisha usalama wa wageni wetu.",
+
+  "We have a restaurant on-site that serves🍗🍗🍗 breakfast, lunch, and dinner. We dispose of all food waste responsibly. Ready to join us?": "Tuna mgahawa ndani ya hoteli 🍗🍗🍗 unaotoa kifungua kinywa, chakula cha mchana na cha jioni. Tunashughulikia taka za chakula kwa uwajibikaji. Uko tayari kujiunga nasi?",
+
+  "👍👍👍Contact us at hotelzesper@gmail.com or call +254 739 279 531 for more information or visit our website (www.hotelzesper.com) to book your stay.": "👍👍👍Wasiliana nasi kupitia hotelzesper@gmail.com au piga +254 739 279 531 kwa maelezo zaidi au tembelea tovuti yetu (www.hotelzesper.com) kuweka nafasi.",
+
+  "🫣🫣I understand. Let us know if you have any other questions.": "🫣🫣Naelewa. Tujulishe kama una maswali mengine.",
+
+  "I am 🤖 the Zesper Chatbot, here to assist you with any questions about our hotel. You may also call me your AI assistant! How can I help you today?": "Mimi ni 🤖 Zesper Chatbot, niko hapa kukusaidia na maswali kuhusu hoteli yetu. Unaweza pia kuniita msaidizi wako wa AI! Naweza kukusaidiaje leo?",
+
+  "Yah, We have a bar 🍷 on-site that serves a variety of drinks, including cocktails and non-alcoholic beverages.🍾🍾🍾": "Ndiyo, tuna baa 🍷 ndani ya hoteli inayotoa vinywaji mbalimbali ikiwemo cocktails na vinywaji visivyo na pombe.🍾🍾🍾",
+
+  "We are the Zesper Hotel, located in kisii county, Nyanchwa sub-county. Do you need more information?": "Sisi ni Hotel Zesper, iliyopo Kaunti ya Kisii, Nyanchwa sub-county. Unahitaji maelezo zaidi?",
+
+  "Oops!😭😞 That's not nice. How can I help you?": "Lo!😭😞 Hiyo si nzuri. Naweza kukusaidiaje?",
+
+  "Thank 🤣🤣 you for apologizing! How can I help you?": "Asante 🤣🤣 kwa kuomba msamaha! Naweza kukusaidiaje?",
+   "Comments": "Maoni",
+  "No comments yet": "Bado hakuna maoni",
+  "Write a comment...": "Andika maoni...",
+  "Send": "Tuma",
+   "Image Preview": "Hakikisho la Picha",
+  "Download": "Pakua",
+   "My Profile": "Wasifu Wangu",
+  "Room Bookings": "Uhifadhi wa Vyumba",
+  "Drink Bookings": "Uhifadhi wa Vinywaji",
+  "Event Bookings": "Uhifadhi wa Matukio",
+  "Spa Bookings": "Uhifadhi wa Spa",
+  "Account Settings": "Mipangilio ya Akaunti",
+  "Smart TV": "Televisheni ya Kisasa (Smart TV)",
+  "High-Speed WiFi": "WiFi ya Kasi ya Juu",
+  "Air Conditioning": "Kiyoyozi",
+  "24/7 Room Service": "Huduma ya Chumba Masaa 24",
+  "Luxury King Bed": "Kitanda Kikubwa cha Kifahari",
+  "Mini Bar": "Baa Ndogo ya Chumbani",
+
+  "Enjoy entertainment with a modern Smart TV featuring streaming apps and HD channels.": "Furahia burudani kupitia Smart TV ya kisasa yenye programu za streaming na chaneli za HD.",
+  "Stay connected with fast and reliable internet access throughout your stay.": "Endelea kuunganishwa na intaneti ya kasi na yenye uhakika wakati wote wa ukaaji wako.",
+  "Relax in a perfectly cooled room with adjustable temperature control for maximum comfort.": "Pumzika kwenye chumba chenye hali ya hewa bora inayoweza kurekebishwa kwa starehe zaidi.",
+  "Enjoy delicious meals and beverages delivered right to your room anytime you need.": "Furahia chakula na vinywaji vitamu vinavyoletewa chumbani wakati wowote unapohitaji.",
+  "Sleep comfortably on premium-quality bedding designed for restful nights.": "Lala kwa starehe kwenye kitanda cha ubora wa juu kilichoandaliwa kwa usingizi bora.",
+  "A fully stocked mini bar with snacks and drinks for your convenience and enjoyment.": "Baa ndogo iliyojaa vinywaji na vitafunwa kwa urahisi na starehe yako.",
+   "Room Amenities": "Vifaa vya Chumba",
+  "Enjoy modern comfort and luxury features designed to make your stay relaxing and memorable.": "Furahia starehe ya kisasa na vipengele vya kifahari vilivyoundwa kufanya ukaaji wako uwe wa kupumzika na wa kukumbukwa.",
+   "Room not found": "Chumba hakijapatikana",
+  "The room you have selected might have been removed or even does not exist in our feartured room. Click \"Back To Room\" to select another room.": "Chumba ulichochagua huenda kimeondolewa au hakipo kwenye vyumba vyetu vilivyoangaziwa. Bonyeza \"Rudi kwenye Vyumba\" kuchagua chumba kingine.",
+
+  "Room Facilities": "Vifaa vya Chumba",
+  "Price per night": "Bei kwa usiku",
+  "Back to Rooms": "Rudi kwenye Vyumba",
+   "Room Rewards Program": "Mpango wa Zawadi za Vyumba",
+  "Earn rewards every time you book a room and unlock exclusive stay benefits.": "Pata zawadi kila unapohifadhi chumba na ufungue faida maalum za ukaaji.",
+
+  "View Rooms": "Ona Vyumba",
+
+  "How it works": "Inavyofanya kazi",
+  "✔ Every room booking earns reward points": "✔ Kila uhifadhi wa chumba hupata pointi za zawadi",
+  "✔ 3 stays = free upgrade (subject to availability)": "✔ Mara 3 za kukaa = kupandishwa daraja bure (kulingana na upatikanaji)",
+  "✔ VIP members get priority booking & discounts": "✔ Wanachama wa VIP hupata kipaumbele na punguzo",
+
+  "Your Status": "Hali Yako",
+  "Standard Guest": "Mgeni wa Kawaida",
+  "1/3 stays to next reward tier": "1/3 ya kukaa kufikia daraja linalofuata",
+  "Luxury Spa Experience": "Uzoefu wa Spa ya Kifahari",
+"Relax your body and mind with soothing spa treatments designed for wellness and comfort.": "Pumzisha mwili na akili yako kwa huduma za spa zinazolenga afya na utulivu.",
+"Download Services": "Pakua Huduma",
+
+"Spa Services": "Huduma za Spa",
+"Relaxing full-body massage": "Masaji ya mwili mzima ya kupumzisha",
+"Facial & skincare treatments": "Huduma za uso na ngozi",
+"Aromatherapy & wellness sessions": "Aromatherapy na vipindi vya afya",
+
+"Wellness Benefits": "Faida za Afya",
+"Rejuvenate your body, reduce stress, and enjoy complete relaxation.": "Fufua mwili wako, punguza msongo wa mawazo, na upate utulivu kamili.",
+"80% relaxation guaranteed ✨": "Utulivu wa 80% umehakikishwa ✨",
+"Top Spa Categories": "Aina Bora za Spa",
+"Discover relaxing treatments tailored for your wellness": "Gundua huduma za kupumzisha zilizoundwa kwa ustawi wako",
+
+"Relax your body with soothing full-body massages designed to relieve stress and tension.": "Pumzisha mwili wako kwa masaji ya mwili mzima yanayopunguza msongo wa mawazo na uchovu",
+
+"Facial Care": "Huduma ya Uso",
+"Refresh and nourish your skin with premium facial and skincare treatments.": "Safisha na lishe ngozi yako kwa huduma bora za uso na ngozi",
+
+"Enjoy calming essential oils and peaceful treatments for total relaxation.": "Furahia mafuta ya asili yanayotuliza na huduma za utulivu wa akili",
+
+"Wellness Spa": "Spa ya Afya",
+"Rejuvenate your mind and body with luxury wellness and healing experiences.": "Fufua akili na mwili wako kwa huduma za afya na uponyaji za kifahari",
+
+"Relaxing spa experience": "Uzoefu wa spa wa kupumzisha",
+"Professional spa treatment": "Huduma ya spa ya kitaalamu",
+"Luxury wellness service": "Huduma ya afya ya kifahari",
+
+"per session": "kwa kipindi",
+"minutes": "dakika",
+"The spa service you selected might have been removed or does not exist. Click \"Back To Spa Services\" to select another service.": "Huduma ya spa uliyochagua inaweza kuwa imeondolewa au haipo. Bonyeza \"Rudi kwenye Spa\" kuchagua huduma nyingine.",
+"Back To Spa": "Rudi kwenye Spa",
+
+"Arrive 10–15 minutes before appointment": "Fika dakika 10–15 kabla ya muda wa huduma",
+"Advance booking recommended": "Inashauriwa kuweka nafasi mapema",
+"Payment may be required before session": "Malipo yanaweza kuhitajika kabla ya huduma",
+"Health conditions should be disclosed": "Taarifa za afya zinapaswa kutolewa",
+"Cancellation allowed before 24 hours": "Kughairi kunaruhusiwa kabla ya saa 24",
+
+"Price per session": "Bei kwa kila huduma",
+"← Back to Spa Services": "← Rudi kwenye Huduma za Spa",
+
+"Professional massage therapy": "Masaji ya kitaalamu",
+"Stress relief & relaxation": "Kupunguza msongo na kupumzika",
+"Aromatherapy sessions": "Vipindi vya aromatherapy",
+"Skin rejuvenation treatments": "Huduma za kurejesha ngozi",
+"Calm and private environment": "Mazingira ya utulivu na faragha",
+
+"Spa Categories": "Aina za Spa",
+
+"Massage Therapy": "Masaji ya Mwili",
+"Facials": "Huduma za Uso",
+"Body Treatments": "Huduma za Mwili",
+"Hot Stone Massage": "Masaji ya Mawe ya Moto",
+"Sauna & Steam": "Sauna na Mvuke",
+"Manicure": "Manicure",
+"Pedicure": "Pedicure",
+"Skin Care": "Huduma ya Ngozi",
+"Couples Spa": "Spa ya Wapenzi",
+"Luxury Packages": "Vifurushi vya Kifahari",
+"Relaxation Therapy": "Tiba ya Kupumzika",
+
+"Sort Services": "Panga Huduma",
+
+"Newest First": "Mpya kwanza",
+"Oldest First": "Zilizokaa muda mrefu",
+"Price High-Low": "Bei juu kwenda chini",
+"Price Low-High": "Bei chini kwenda juu",
+"Most Popular": "Maarufu zaidi",
+"Top Rated": "Zilizokadiriwa juu",
+"A-Z": "A hadi Z",
+"Z-A": "Z hadi A",
+
+ "Service Not Available": "Huduma Haipatikani",
+  "service_not_available_message": "{{category}} huduma haipatikani kwa sasa!",
+  "Search spa services": "Tafuta huduma za spa",
+  "Deep Tissue Massage": "Massage ya Misuli ya Kina",
+"Ease muscle tension and relax with our premium deep tissue massage therapy.": "Punguza mkazo wa misuli na pumzika kwa tiba ya massage ya kina.",
+
+"Luxury Facial": "Usafi wa Uso wa Kifahari",
+"Refresh and hydrate your skin with rejuvenating facial treatments.": "Fufua na lisha ngozi yako kwa matibabu ya uso ya kisasa.",
+
+"Aromatherapy Session": "Tiba ya Harufu (Aromatherapy)",
+"Relax your body and mind with calming oils and soothing therapies.": "Pumzisha mwili na akili kwa mafuta ya kutuliza na tiba laini.",
+
+"Hot Stone Therapy": "Tiba ya Mawe Moto",
+"Experience deep relaxation with heated stones for stress relief and balance.": "Pata utulivu wa kina kwa kutumia mawe moto kupunguza msongo wa mawazo.",
+
+"Luxury Spa Treatments": "Matibabu ya Spa ya Kifahari",
+"Experience world-class spa therapies designed to relax your body and restore balance.": "Pata tiba za spa za kiwango cha kimataifa zilizobuniwa kupumzisha mwili na kurejesha uwiano.",
+
+"Peaceful Atmosphere": "Mazingira ya Amani",
+"Unwind in a calm, serene environment created for total relaxation and comfort.": "Pumzika katika mazingira tulivu yaliyoandaliwa kwa utulivu na starehe kamili.",
+
+"Professional Therapists": "Wataalamu wa Spa Wenye Uzoefu",
+"Our certified spa specialists ensure personalized care and premium service.": "Wataalamu wetu wa spa waliothibitishwa huhakikisha huduma binafsi na ya kiwango cha juu.",
+
+"Wellness & Rejuvenation": "Afya na Uhuishaji wa Mwili",
+"Rejuvenate your mind and body with holistic treatments that refresh your spirit.": "Fufua akili na mwili wako kwa matibabu ya kina yanayoburudisha roho yako.",
+
+"Home": "Nyumbani",
+"About": "Kuhusu Sisi",
+"Contact": "Mawasiliano",
+"Hotels": "Hoteli",
+"Blog": "Blogu",
+
+
+"Enter your email address": "Weka anwani ya barua pepe",
+
+"© 2026 Hotel Zesper. All rights reserved.": "© 2026 Hoteli Zesper. Haki zote zimehifadhiwa.",
+
+"Book comfortable and elegant rooms designed for relaxation, business stays, and memorable experiences with premium comfort.": "Weka vyumba vya starehe na vya kifahari vilivyoundwa kwa ajili ya mapumziko, biashara na uzoefu wa kukumbukwa wenye ubora wa hali ya juu.",
+
+"Enjoy freshly prepared local and international meals served in our restaurant with quality hospitality and delicious flavors.": "Furahia chakula cha ndani na cha kimataifa kilichoandaliwa upya katika mgahawa wetu na huduma bora na ladha tamu.",
+
+"Host meetings, conferences, weddings, and special events in our spacious and well-organized event facilities.": "Fanya mikutano, semina, harusi na matukio maalum katika kumbi zetu pana na zilizopangwa vizuri.",
+
+"Relax and unwind with premium drinks, cocktails, beverages, and snacks in a welcoming and stylish atmosphere.": "Pumzika na kufurahia vinywaji vya hali ya juu, cocktail na vitafunwa katika mazingira mazuri na ya kuvutia.",
+
+"Enjoy safe, spacious, and convenient parking facilities available for guests throughout their stay.": "Furahia maegesho salama, mapana na rahisi kwa wageni wote wakati wa ukaaji wao.",
+
+"Experience modern rooms equipped with Smart TVs, quality bedding, WiFi, and premium amenities for maximum comfort.": "Pata vyumba vya kisasa vyenye Smart TV, matandiko bora, WiFi na huduma za hali ya juu kwa starehe ya juu.",
+
+"Our reception team is available around the clock to assist with check-in, reservations, inquiries, and guest support.": "Timu yetu ya mapokezi ipo muda wote kusaidia kuingia hotelini, uhifadhi na msaada kwa wageni.",
+
+"Enjoy professional housekeeping, laundry, and personalized guest services designed for a smooth and comfortable stay.": "Furahia usafi wa kitaalamu, huduma za kufua na huduma maalum za wageni kwa ukaaji mzuri na rahisi.",
+
+"English": "Kiingereza",
+
+"Business Traveler": "Msafiri wa Kibiashara",
+"Tourist": "Mtembeleaji",
+"Regular Guest": "Mgeni wa Kawaida",
+"Family Visitor": "Mtembeleaji wa Familia",
+
+"Hotel Zesper gave me the best experience ever. The rooms are clean, modern, and the service is top-tier.": "Hotel Zesper ilinipa uzoefu bora zaidi. Vyumba ni safi, vya kisasa na huduma ni ya kiwango cha juu.",
+
+"From check-in to check-out, everything was smooth. The staff is friendly and the food is amazing.": "Kuanzia kuingia hadi kutoka, kila kitu kilikuwa rahisi. Wafanyakazi ni wa kirafiki na chakula ni kitamu.",
+
+"I love the peaceful environment and fast WiFi. Perfect place for work and relaxation.": "Ninapenda mazingira tulivu na WiFi ya haraka. Mahali pazuri kwa kazi na mapumziko.",
+
+"We enjoyed our stay as a family. The rooms are spacious and the kids loved the facilities.": "Tulifurahia ukaaji wetu kama familia. Vyumba ni vikubwa na watoto walipenda huduma.",
+
+"Enter your new password": "Weka nenosiri lako jipya",
+"New password": "Nenosiri jipya",
+
+"No user found!": "Hakuna mtumiaji aliyepatikana!",
+
+"Must be at least 8 characters with at least a capital letter, small letter and a number":
+"Ni lazima iwe angalau herufi 8 ikiwa na herufi kubwa, ndogo na namba",
+
+"example@gmail.com": "mfano@gmail.com",
+
+"Please input a valid email!": "Tafadhali ingiza barua pepe sahihi!",
+"Please input a valid password": "Tafadhali ingiza nenosiri sahihi!",
+
+"Invalid email or password": "Barua pepe au nenosiri si sahihi",
+"Login successful": "Umefanikiwa kuingia",
+"Enter new password": "Weka nenosiri jipya",
+"Remember your password?": "Unakumbuka nenosiri lako?",
+  "OR": "AU",
+  "Login": "Ingia",
+
+  "Enter username": "Weka jina la mtumiaji",
+
+   "Email is required": "Barua pepe inahitajika",
+  "Password is required": "Nenosiri linahitajika",
+  "Username is required": "Jina la mtumiaji linahitajika",
+
+  "Enter valid login details": "Weka taarifa sahihi za kuingia",
+
+  "Password must be at least 8 characters with letters and numbers": "Nenosiri lazima liwe na angalau herufi 8 na namba",
+
+  "It should match password": "Lazima ilingane na nenosiri",
+  "Must be at least 8 characters with letters and numbers": "Lazima iwe na angalau herufi 8 na namba",
+  "Our Services": "Huduma Zetu",
+  "We offer a wide range of premium services to make your stay at Hotel Zesper comfortable, enjoyable, and unforgettable. From luxury experiences to essential conveniences, everything is designed for you.": "Tunatoa huduma bora ili kufanya ukaaji wako Hotel Zesper uwe wa starehe na wa kukumbukwa.",
+
+  "Learn more": "Jifunze zaidi",
+  "Featured Rooms": "Vyumba Vilivyoangaziwa",
+  "Discover our most popular room types, designed to provide the perfect blend of comfort, luxury, and style for your stay at Hotel Zesper.": "Gundua vyumba bora vinavyotoa starehe na anasa.",
+
+  "View Details": "Tazama Maelezo",
+  "View All Rooms": "Vyumba Vyote",
+  "Hotel":"Hoteli",
+   "Discover refined comfort and exceptional hospitality crafted for your perfect stay. Every detail is designed for a memorable experience.": "Gundua faraja ya hali ya juu na huduma bora ya ukarimu iliyoundwa kwa ajili ya ukaaji wako kamili. Kila undani umebuniwa kwa ajili ya uzoefu wa kukumbukwa.",
+  "Best Spa Services": "Huduma Bora za Spa",
+  "Explore our most loved spa treatments for complete relaxation.": "Gundua matibabu ya spa yanayopendwa kwa utulivu kamili",
+
+  "Book Now": "Weka Nafasi",
+  "Book Spa Session": "Weka Kipindi cha Spa",
+  "Back to Spa Services": "Rudi Huduma za Spa",
+
+  "Spa Benefits": "Faida za Spa",
+  "Booking Requirements": "Masharti ya Kuhifadhi",
+
+  "Service not found": "Huduma haijapatikana",
+ 
+   "Quick Settings": "Mipangilio ya Haraka",
+  "Manage your preferences": "Dhibiti mapendeleo yako",
+
+  "Profile Settings": "Mipangilio ya Wasifu",
+  "Language": "Lugha",
+  "Theme Mode": "Hali ya Muonekano",
+
+  "More Settings": "Mipangilio Zaidi",
+  "Logout": "Toka",
+  "Why Choose Our Spa": "Kwa Nini Uchague Spa Yetu",
+  "Experience luxury spa treatments, relaxation, and complete wellness.": "Pata huduma za spa za kifahari na utulivu kamili",
+
+  "All rights reserved": "Haki zote zimehifadhiwa",
+   "About Zesper": "Kuhusu Zesper",
+  "Please select any room of your choice from the featured rooms. Click \"Back To Room\" to select another room.":
+    "Tafadhali chagua chumba kutoka kwenye vyumba vilivyoangaziwa. Bonyeza \"Rudi Vyumbani\" kuchagua kingine.",
+
+    "Subscribe to our Newsletter": "Jiandikishe kwenye Jarida letu",
+  "Get hotel updates, offers, events, and exclusive deals.": "Pata taarifa za hoteli, ofa, matukio na punguzo maalum.",
+
+  "Enter email address": "Weka anwani ya barua pepe",
+  "Subscribe": "Jiandikishe",
+  "Subscribed successfully!": "Umejiandikisha kwa mafanikio!",
+  "Enter your email": "Weka barua pepe yako",
+  "Invalid email address": "Barua pepe si sahihi",
+  "Enter email": "Weka barua pepe",
+  "Email not found!": "Barua pepe haijapatikana!",
+  "Email verified! Set new password.": "Barua pepe imethibitishwa! Weka nenosiri jipya.",
+  "Password must be at least 6 characters": "Nenosiri lazima liwe na angalau herufi 6",
+  "Password updated successfully!": "Nenosiri limebadilishwa kwa mafanikio!",
+
+  "Room Booking": "Uhifadhi wa Chumba",
+  "Restaurant & Dining": "Mgahawa na Chakula",
+  "Conference & Events": "Mikutano na Matukio",
+  "Bar & Refreshments": "Baa na Vinywaji",
+  "Secure Parking": "Maegesho Salama",
+  "Luxury Accommodation": "Malazi ya Kifahari",
+  "24/7 Front Desk": "Mapokezi ya Saa 24",
+  "Laundry & Guest Services": "Huduma za Usafi na Wageni",
+
+  "Learn more →": "Jifunze zaidi →",
+  "View All Services": "Tazama Huduma Zote",
+
+  "Quick Links": "Viungo vya Haraka",
+  "FAQs": "Maswali Yanayoulizwa Mara kwa Mara",
+  "Booking Process": "Mchakato wa Kuhifadhi",
+  "Rooms": "Vyumba",
+  "Help Center": "Kituo cha Msaada",
+  "Drinks": "Vinywaji",
+
+  "Newsletter": "Jarida",
+  "Get updates, offers, and exclusive deals directly in your inbox.": "Pata taarifa, ofa na punguzo moja kwa moja kwenye barua pepe yako.",
+
+  "Terms": "Masharti",
+  "Cookies": "Vidakuzi",
+
+  "What Our Guests Say": "Wageni Wetu Wanasema Nini",
+  "Real experiences from guests at Hotel Zesper.": "Uzoefu halisi wa wageni wa Hotel Zesper.",
+
+  "Welcome Back": "Karibu Tena",
+  "Login to access more services and settings": "Ingia kupata huduma na mipangilio zaidi",
+  "Password": "Nenosiri",
+  "Forgot Password?": "Umesahau Nenosiri?",
+  "Continue with Google": "Endelea na Google",
+  "Don’t have an account?": "Huna akaunti?",
+  "Sign Up": "Jisajili",
+
+  "Create Account": "Fungua Akaunti",
+  "Sign up to access your Task Management Dashboard": "Jisajili kupata mfumo wako wa usimamizi",
+  "Username": "Jina la Mtumiaji",
+  "Confirm Password": "Thibitisha Nenosiri",
+  "Already have an account?": "Tayari una akaunti?",
+
+  "Forgot Password": "Umesahau Nenosiri",
+  "Enter your email to continue": "Weka barua pepe kuendelea",
+  "Verify Email": "Thibitisha Barua Pepe",
+  "Set New Password": "Weka Nenosiri Jipya",
+
+  "Reset Password": "Badilisha Nenosiri",
+  "Create a new password for your account": "Tengeneza nenosiri jipya la akaunti yako",
+  "New Password": "Nenosiri Jipya",
+  "Confirm new password": "Thibitisha nenosiri jipya",
+  "Reset Password Button": "Badilisha Nenosiri",
+
+  "No Room Selected": "Hakuna Chumba Kilichochaguliwa",
+  "Please select any room of your choice from the featured rooms. Click \"Back To Rooms\" to select another room.": "Tafadhali chagua chumba kutoka kwenye vyumba vilivyoangaziwa. Bonyeza \"Rudi Vyumbani\" kuchagua kingine.",
+ 
+  "Types of Cookies": "Aina za Vidakuzi",
+
+  "Some cookies may be placed by trusted third-party providers including analytics services, payment processors, booking platforms, and advertising partners.": "Baadhi ya vidakuzi huwekwa na watoa huduma wa tatu kama uchambuzi wa data, malipo, mifumo ya uhifadhi na washirika wa matangazo.",
+
+  "These providers may collect information in accordance with their own privacy and cookies policies.": "Watoa huduma hawa wanaweza kukusanya taarifa kulingana na sera zao za faragha na vidakuzi.",
+
+  "Cookies Policy": "Sera ya Vidakuzi",
+  "Learn how Hotel Zesper uses cookies to improve your browsing experience and website functionality.": 
+    "Jifunze jinsi Hotel Zesper inavyotumia vidakuzi kuboresha uzoefu wako wa kutumia tovuti na utendaji wake.",
+  "What Are Cookies?": "Vidakuzi ni Nini?",
+  "How We Use Cookies": "Jinsi Tunavyotumia Vidakuzi",
+  "Types of Cookies We Use": "Aina za Vidakuzi Tunazotumia",
+  "Third-Party Cookies": "Vidakuzi vya Watu wa Tatu",
+  "Managing Cookies": "Kudhibiti Vidakuzi",
+  "Data Collected Through Cookies": "Taarifa Zinazokusanywa Kupitia Vidakuzi",
+  "Changes to This Cookies Policy": "Mabadiliko ya Sera Hii ya Vidakuzi",
+
+  "Hotel Zesper uses cookies and similar technologies to improve your browsing experience, personalize content, analyze website traffic, and provide better hospitality services.": 
+    "Hotel Zesper hutumia vidakuzi na teknolojia zinazofanana kuboresha uzoefu wako, kubinafsisha maudhui, kuchambua trafiki ya tovuti, na kutoa huduma bora za ukarimu.",
+
+  "This Cookies Policy explains what cookies are, how we use them, and the choices available to you regarding their use.": 
+    "Sera hii inaeleza vidakuzi ni nini, jinsi tunavyovitumia, na chaguo ulizo nazo kuhusu matumizi yake.",
+
+  "By continuing to browse hotelzesper.com, you consent to the use of cookies as described in this policy.": 
+    "Kwa kuendelea kutumia hotelzesper.com, unakubali matumizi ya vidakuzi kama ilivyoelezwa kwenye sera hii.",
+
+  "Cookies are small text files stored on your device when you visit a website. They help websites function efficiently and remember user preferences.": 
+    "Vidakuzi ni mafaili madogo ya maandishi yanayohifadhiwa kwenye kifaa chako unapotembelea tovuti. Husaidia tovuti kufanya kazi vizuri na kukumbuka mapendeleo ya mtumiaji.",
+
+  "Cookies may remember login information, booking preferences, browsing history, language settings, and other interactions to improve website performance.": 
+    "Vidakuzi vinaweza kukumbuka taarifa za kuingia, mapendeleo ya uhifadhi, historia ya matumizi, mipangilio ya lugha na mwingiliano mwingine kuboresha utendaji wa tovuti.",
+
+  "Hotel Zesper uses cookies to improve website performance, personalize guest experiences, maintain secure sessions, and support reservation functionality.": 
+    "Hotel Zesper hutumia vidakuzi kuboresha utendaji wa tovuti, kubinafsisha uzoefu wa wageni, kudumisha usalama wa vipindi na kusaidia mfumo wa uhifadhi.",
+
+  "Cookies also help us analyze website traffic, understand guest interactions, and improve the quality of our services and digital experience.": 
+    "Vidakuzi pia hutusaidia kuchambua trafiki ya tovuti, kuelewa mwingiliano wa wageni na kuboresha ubora wa huduma zetu.",
+
+  "Essential Cookies: Necessary for website functionality, secure navigation, and booking processes.": 
+    "Vidakuzi Muhimu: Ni vya lazima kwa utendaji wa tovuti, usalama na mchakato wa kuhifadhi.",
+
+  "Performance Cookies: Help us understand website usage, visitor behavior, and optimize performance.": 
+    "Vidakuzi vya Utendaji: Hutusaidia kuelewa matumizi ya tovuti na kuboresha utendaji wake.",
+
+  "Functional Cookies: Remember guest preferences such as language, region, and booking settings.": 
+    "Vidakuzi vya Kazi: Hukumbuka mapendeleo ya wageni kama lugha na mipangilio ya uhifadhi.",
+
+  "Marketing Cookies: Used to provide relevant promotions, advertisements, and personalized hotel offers.": 
+    "Vidakuzi vya Masoko: Hutumika kutoa matangazo na ofa zinazolengwa kwa mgeni.",
+
+  "Most browsers allow you to manage, disable, or delete cookies through browser settings.": 
+    "Vivinjari vingi huruhusu kudhibiti, kuzima au kufuta vidakuzi kupitia mipangilio ya kivinjari.",
+
+  "Please note that disabling cookies may affect certain website features including reservation systems, saved preferences, and personalized experiences.": 
+    "Kuzima vidakuzi kunaweza kuathiri baadhi ya vipengele kama mfumo wa uhifadhi na mapendeleo yaliyohifadhiwa.",
+
+  "Cookies may collect information such as browser type, device information, IP address, session duration, visited pages, and interaction behavior.": 
+    "Vidakuzi vinaweza kukusanya taarifa kama aina ya kivinjari, kifaa, IP, muda wa matumizi na kurasa zilizotembelewa.",
+
+  "This information is primarily used to improve website usability, performance, and guest experiences.": 
+    "Taarifa hizi hutumika kuboresha urahisi wa matumizi na uzoefu wa wageni.",
+
+  "Hotel Zesper reserves the right to update this Cookies Policy periodically to reflect operational, legal, or technological changes.": 
+    "Hotel Zesper ina haki ya kubadilisha sera hii mara kwa mara kulingana na mabadiliko ya kiutendaji au kisheria.",
+
+  "Updated versions will be published on this page with a revised 'Last Updated' date.": 
+    "Toleo jipya litachapishwa hapa na tarehe mpya ya kusasishwa.",
+
+  "If you have questions regarding our use of cookies or this Cookies Policy, please contact us.": 
+    "Ikiwa una maswali kuhusu sera hii ya vidakuzi, tafadhali wasiliana nasi.",
+
+  "Order ID: #": "Nambari ya Oda: #",
+
+   "Our Gallery": "Picha Zetu",
+
+  "Images": "Picha",
+  "Videos": "Video",
+
+
+  "All": "Yote",
+  "Booking": "Uhifadhi",
+  "Payments": "Malipo",
+  "Support": "Msaada",
+  "Account": "Akaunti",
+
+  "No FAQs found.": "Hakuna maswali yaliyopatikana.",
+
+   "Ready to Host an Unforgettable Event?": "Uko Tayari Kufanya Tukio Lisilosahaulika?",
+  "Book your perfect event space today and let us help you create memorable weddings, corporate meetings, and celebrations tailored to your needs.":
+    "Weka nafasi ya ukumbi wako leo na tukusaidie kuandaa harusi, mikutano ya kibiashara na sherehe zisizosahaulika.",
+
+  "Book Event": "Weka Tukio",
+  "Explore Events": "Chunguza Matukio",
+   "No Drink Selected": "Hakuna Kinywaji Kilichochaguliwa",
+  "Please select a drink before placing an order.":
+    "Tafadhali chagua kinywaji kabla ya kuweka oda.",
+
+
+  "Drink Summary": "Muhtasari wa Kinywaji",
+
+  "Drink Order Details": "Maelezo ya Oda ya Kinywaji",
+
+  "Pay on Delivery": "Lipa Uwasilishwaji",
+
+  "Confirm Order": "Thibitisha Oda",
+  "No Drink Order Found": "Hakuna Oda ya Kinywaji Iliyopatikana",
+  "You have not ordered any drink yet.": "Bado hujaagiza kinywaji chochote.",
+
+  "Back To Drinks": "Rudi kwenye Vinywaji",
+  "Drink Receipt": "Risiti ya Kinywaji",
+
+  "No Event Selected": "Hakuna Tukio Lililochaguliwa",
+  "Please select an event before booking.":
+    "Tafadhali chagua tukio kabla ya kuweka nafasi.",
+
+
+  "Event Booking Details": "Maelezo ya Uwekaji Nafasi",
+
+   "No Event Booking Found": "Hakuna Uwekaji Nafasi wa Tukio Uliopatikana",
+  "You have not booked any event yet.": "Bado hujafanya uwekaji wa tukio.",
+
+  "Back To Events": "Rudi kwenye Matukio",
+  "Event Receipt": "Risiti ya Tukio",
+
+ 
+  "Event": "Tukio",
+
+  "Guests": "Wageni",
+ 
+
+  "We may collect personal information such as your name, email address, phone number, billing information, booking details, guest preferences, and identification information required for reservations or check-ins.":
+    "Tunaweza kukusanya taarifa binafsi kama jina, barua pepe, nambari ya simu, taarifa za malipo, maelezo ya booking na kitambulisho cha mgeni.",
+
+  "We may automatically collect technical information including browser type, operating system, IP address, referring pages, and website interaction data to improve our platform.":
+    "Tunaweza kukusanya taarifa za kiufundi kama aina ya browser, mfumo wa kifaa, IP address na jinsi unavyotumia tovuti.",
+
+  "Information may also be collected when you contact support, subscribe to newsletters, participate in promotions, or provide feedback regarding your stay.":
+    "Taarifa pia hukusanywa unapowasiliana na support, kujiunga na barua pepe au kutoa maoni.",
+
+  "We use your information to process reservations, manage guest stays, provide hospitality services, and communicate booking confirmations or updates.":
+    "Tunatumia taarifa zako kushughulikia booking, kusimamia huduma za wageni na kuthibitisha nafasi.",
+
+  "Information may also be used to personalize your hotel experience, improve website performance, and provide customer support.":
+    "Taarifa hutumika kuboresha uzoefu wako, huduma na utendaji wa tovuti.",
+
+  "Where permitted by law, Hotel Zesper may send offers, newsletters, discounts, and marketing communications related to our services.":
+    "Kulingana na sheria, tunaweza kutuma ofa, promosheni na taarifa za huduma zetu.",
+
+  "Hotel Zesper may share limited personal information with trusted third-party providers for payment processing, reservation management, analytics, and customer communication services.":
+    "Tunaweza kushirikisha taarifa na watoa huduma wa kuaminika kama malipo na booking.",
+
+  "We may disclose information if required by law, legal process, or to protect the safety, rights, and property of Hotel Zesper, our guests, or others.":
+    "Tunaweza kutoa taarifa ikiwa inahitajika kisheria au kulinda usalama.",
+
+  "Hotel Zesper does not sell personal information to third parties.":
+    "Hotel Zesper haiuzi taarifa zako binafsi.",
+
+  "Our website uses cookies and similar technologies to improve functionality, remember preferences, analyze website traffic, and enhance your browsing experience.":
+    "Tovuti yetu hutumia cookies kuboresha matumizi na kukumbuka mapendeleo yako.",
+
+  "Cookies help us understand how visitors use our website so we can improve usability and performance.":
+    "Cookies hutusaidia kuelewa jinsi watumiaji wanavyotumia tovuti yetu.",
+
+  "You may disable cookies in your browser settings, though some website features may not function properly.":
+    "Unaweza kuzima cookies kwenye browser yako lakini baadhi ya huduma zinaweza zisifanye kazi.",
+
+  "Hotel Zesper implements commercially reasonable safeguards to protect your information from unauthorized access, disclosure, misuse, or destruction.":
+    "Tunatumia hatua za usalama kulinda taarifa zako dhidi ya matumizi yasiyoidhinishwa.",
+
+  "Sensitive booking and payment information is processed using secure technologies and trusted providers.":
+    "Taarifa za malipo na booking zinachakatwa kwa njia salama.",
+
+  "While we take reasonable steps to secure your information, no online transmission or storage system can be guaranteed to be completely secure.":
+    "Ingawa tunachukua hatua za usalama, hakuna mfumo wa mtandao ulio salama 100%.",
+
+  "We retain personal information only for as long as necessary to provide services, fulfill legal obligations, resolve disputes, and enforce agreements.":
+    "Tunahifadhi taarifa kwa muda unaohitajika tu kwa huduma na sheria.",
+
+  "Certain records related to reservations, billing, and guest interactions may be retained for legal, tax, or fraud-prevention purposes.":
+    "Baadhi ya rekodi huhifadhiwa kwa sababu za kisheria au kodi.",
+
+  "Depending on applicable laws in your region, you may have rights to access, correct, update, or request deletion of your personal information.":
+    "Unaweza kuwa na haki ya kuona, kusahihisha au kufuta taarifa zako.",
+
+  "You may opt out of promotional communications at any time by following unsubscribe instructions or contacting Hotel Zesper directly.":
+    "Unaweza kujitoa kwenye barua za promosheni wakati wowote.",
+
+  "We are not responsible for third-party websites.": "Hatuwajibiki na tovuti za watu wengine.",
+  "We do not knowingly collect data from children.": "Hatusanyi taarifa za watoto bila idhini.",
+  "Your data may be processed in other countries.": "Taarifa zako zinaweza kuchakatwa nje ya nchi yako.",
+  "Contact us if you have questions.": "Wasiliana nasi kwa maswali yoyote.",
+   "Privacy Policy": "Sera ya Faragha",
+  "Learn how we collect, use, and protect your information.": "Jifunze jinsi tunavyokusanya, kutumia na kulinda taarifa zako.",
+
+  "Privacy Policy Hero Text": "Katika Hotel Zesper, faragha yako ni muhimu. Sera hii inaeleza jinsi tunavyokusanya, kuhifadhi na kulinda taarifa zako unapotumia tovuti au huduma zetu.",
+
+  "Information We Collect": "Taarifa Tunazokusanya",
+  "How We Use Your Information": "Jinsi Tunavyotumia Taarifa Zako",
+  "Sharing of Information": "Kushirikisha Taarifa",
+  "Cookies & Tracking Technologies": "Cookies na Teknolojia za Ufuatiliaji",
+  "Data Security": "Usalama wa Taarifa",
+  "Data Retention": "Uhifadhi wa Taarifa",
+  "Your Privacy Rights": "Haki Zako za Faragha",
+  "Third-Party Links & Services": "Viungo vya Watu wa Tatu",
+  "Children's Privacy": "Faragha ya Watoto",
+  "International Data Transfers": "Uhamishaji wa Kimataifa wa Taarifa",
+  "Changes to This Privacy Policy": "Mabadiliko ya Sera ya Faragha",
+  
+  "You have not booked any room. Click \"Back To Room\" to select and book a room.": "Hujaweka booking ya chumba chochote. Bonyeza \"Rudi kwenye Vyumba\" kuchagua na kuweka booking.",
+
+  "Booking Receipt": "Risiti ya Booking",
+  "Receipt ID": "Nambari ya Risiti",
+ 
+  "Number of Guest": "Idadi ya Wageni",
+
+  "Total Price": "Jumla ya Bei",
+
+  "Check-In": "Kuingia",
+  "Check-Out": "Kutoka",
+
+  "Thank you for booking with Hotel Zesper!": "Asante kwa kuweka booking na Hotel Zesper!",
+  "Ready to Experience Luxury?": "Tayari Kuonja Anasa?",
+  "Book your stay at Hotel Zesper today and indulge in unparalleled comfort and elegance.":
+    "Weka nafasi yako Hotel Zesper leo na ufurahie starehe na anasa zisizo na kifani.",
+
+  "Book Room": "Weka Chumba",
+  "Explore Rooms": "Chunguza Vyumba",
+
+  "notifications": "Arifa",
+  "payments": "Malipo",
+  "privacy": "Faragha",
+  "language": "Lugha",
+  "appearance": "Muonekano",
+
+  "Notifications": "Arifa",
+  "CVV": "CVV",
+  "Save Payment Method": "Hifadhi Njia ya Malipo",
+
+  "Privacy": "Faragha",
+  "Save Preferences": "Hifadhi Mapendeleo",
+  "Switch between light and dark theme": "Badilisha kati ya mwanga na giza",
+
+  "Preview: This is how your theme will look.": "Muonekano: Hivi ndivyo mandhari yako yatakavyoonekana",
+
+  "Back To Rooms": "Rudi kwenye Vyumba",
+   "Ready to Experience Pure Relaxation?": "Tayari kupata mapumziko ya kweli?",
+  "Book your spa session today and indulge in soothing treatments designed to restore your mind, body, and soul.": "Weka nafasi ya spa yako leo na ufurahie matibabu ya kupumzisha yanayosaidia kurejesha akili, mwili na roho yako.",
+
+  "Book Session": "Weka Nafasi ya Kipindi",
+  "Explore Services": "Gundua Huduma",
+  "No Spa Service Selected": "Hakuna Huduma ya Spa Iliyoteuliwa",
+  "Please select a spa service before booking.": "Tafadhali chagua huduma ya spa kabla ya kuweka nafasi.",
+
+  "Spa Summary": "Muhtasari wa Spa",
+
+  "Spa Booking Details": "Maelezo ya Uwekaji Nafasi ya Spa",
+
+  "Full Name": "Jina Kamili",
+
+  "M-Pesa": "M-Pesa",
+  "Card Payment": "Malipo kwa Kadi",
+  "Pay on Arrival": "Lipa Ukifika",
+
+  "Confirm Booking": "Thibitisha Uwekaji Nafasi",
+  "No Spa Booking Found": "Hakuna Uwekaji Nafasi wa Spa Uliopatikana",
+  "You have not booked any spa service yet.": "Bado hujafanya uwekaji nafasi wa huduma ya spa.",
+
+  "Spa Receipt": "Risiti ya Spa",
+  "Booking ID": "Namba ya Uwekaji Nafasi",
+  "Email": "Barua Pepe",
+  "Phone": "Simu",
+  "Download Receipt": "Pakua Risiti",
+   "Introduction": "Utangulizi",
+  "Eligibility & Use of Website": "Ustahiki na Matumizi ya Tovuti",
+  "Bookings & Reservations": "Uwekaji Nafasi na Hifadhi",
+  "Pricing & Payments": "Bei na Malipo",
+  "Cancellation & Refund Policy": "Sera ya Kughairi na Marejesho",
+  "User Responsibilities": "Majukumu ya Mtumiaji",
+  "Limitation of Liability": "Mipaka ya Dhima",
+  "Changes to Terms": "Mabadiliko ya Masharti",
+
+  "Hotel Zesper": "Hotel Zesper",
+  "Terms & Conditions": "Sheria na Masharti",
+  "Table of Contents": "Jedwali la Yaliyomo",
+  "Legal Information": "Taarifa za Kisheria",
+
+  "Please read these Terms carefully before using Hotel Zesper services and booking system.": "Tafadhali soma Masharti haya kwa makini kabla ya kutumia huduma za Hotel Zesper na mfumo wa uwekaji nafasi.",
+  
+  "These Terms and Conditions outline the rules, responsibilities, and policies governing the use of Hotel Zesper services, website, and booking platform.": "Sheria na Masharti haya yanaeleza kanuni, majukumu, na sera zinazosimamia matumizi ya huduma za Hotel Zesper, tovuti, na mfumo wa uwekaji nafasi.",
+
+  "Last Updated: June 8, 2026": "Imesasishwa: Juni 8, 2026",
+
+  "Email: support@hotelzesper.com": "Barua pepe: support@hotelzesper.com",
+  "Phone: +254 XXX XXX XXX": "Simu: +254 XXX XXX XXX",
+  "Address: Hotel Zesper, Nairobi, Kenya": "Anwani: Hotel Zesper, Nairobi, Kenya",
+  "What Guests Say About Us": "Wageni Wanasemaje Kuhusu Sisi",
+  "Real experiences from guests who enjoyed the luxury, comfort and premium hospitality of Hotel Zesper.": "Uzoefu halisi wa wageni waliofurahia anasa, starehe na huduma bora za Hotel Zesper.",
+
+  "Leave a Review": "Acha Maoni",
+  "Share your experience with Hotel Zesper.": "Shiriki uzoefu wako na Hotel Zesper.",
+
+  "Submit Review": "Tuma Maoni",
+
+  "Upload Your Photo": "Pakia Picha Yako",
+  "Click to upload image": "Bofya kupakia picha",
+
+  "Visitor": "Mtembeleaji",
+  "Customer": "Mteja",
+
+  "Wedding Experience": "Uzoefu wa Harusi",
+  "Restaurant Experience": "Uzoefu wa Mgahawa",
+  "Customer Review": "Maoni ya Mteja",
+
+  "From America": "Kutoka Marekani",
+  "From Kenya": "Kutoka Kenya",
+  "High floor, quiet room, baby crib...": "Ghorofa ya juu, chumba tulivu, kitanda cha mtoto...",
+  "Quantity": "Kiasi",
+  "Preferred drinks, mix suggestions...": "Vinywaji unavyopendelea, mapendekezo ya mchanganyiko...",
+  "Decoration, catering, seating, AV setup...": "Mapambo, chakula, mpangilio wa viti, vifaa vya sauti na picha...",
+  "Relaxation preferences...": "Mapendeleo ya mapumziko...",
+   "Operations Manager": "Meneja wa Uendeshaji",
+   " No Results Found":"Hakuna Matokeo",
+   " currently has no matching blog posts. Please try another category or search keyword.":"kwa sasa hakuna blogu zinazolingana. Tafadhali jaribu kategoria nyingine au neno la utafutaji.",
+    "breakfast": "kifungua kinywa",
+  "dinner": "chakula cha jioni",
+  "lunch": "chakula cha mchana",
+  "supper": "chakula cha usiku",
+  "drinks": "vinywaji",
+  "rooms": "vyumba",
+  "hotel": "hoteli",
+  "dinning": "sehemu ya kulia chakula",
+  "parking": "maegesho",
+  "celebration": "sherehe",
+  "leadership": "uongozi",
+  "Ksh.":"Shilingi",
+   "pts": "alama",
+   "View All Drinks":"Vinywaji Vyote",
+    "Aromatherapy": "Tiba ya Harufu",
+    "mins":"dakika",
+    "Amenities": "Huduma na Vifaa",
+    "From":"Kutoka",
+  "America": "Marekani",
+  "Kenya": "Kenya",
+
+  "This hotel made my wedding dream come true. Hotel Zesper gave us an unforgettable event experience.": "Hoteli hii ilifanya ndoto yangu ya harusi itimie. Hotel Zesper ilitupatia uzoefu wa tukio usiosahaulika.",
+
+  "I enjoy the cool environment and natural breeze at Zesper. It is the perfect place for weekend relaxation.": "Ninafurahia mazingira mazuri na upepo wa asili katika Zesper. Ni mahali pazuri kwa mapumziko ya wikendi.",
+
+  "Hotel Zesper provides amazing meals for breakfast, lunch, dinner and supper. Perfect place for events.": "Hotel Zesper hutoa chakula kizuri sana kwa kifungua kinywa, chakula cha mchana, chakula cha jioni na chakula cha usiku. Ni mahali pazuri kwa matukio.",
+  "★★★★★ Excellent": "★★★★★ Bora Sana",
+  "★★★★ Very Good": "★★★★ Nzuri Sana",
+  "★★★ Good": "★★★ Nzuri",
+  "★★ Fair": "★★ Wastani",
+  "★ Poor": "★ Duni",
+  " Our support team is available 24/7 to assist you with bookings, account issues, and hotel services.": "Timu yetu ya msaada inapatikana saa 24/7 kukusaidia kuhusu uhifadhi wa nafasi, matatizo ya akaunti, na huduma za hoteli."
+  
+}
