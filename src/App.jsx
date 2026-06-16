@@ -81,8 +81,8 @@ function App() {
         <Route path="/spaServicesContent" element={<SpaServicesContent />} />
         {/* <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<SignUp />} />*/}
-        <Route path="/forgetPassword" element={<ForgetPassword />} />
-        <Route path="/resetPassword" element={<ResetPassword />} /> 
+        {/* <Route path="/forgetPassword" element={<ForgetPassword />} />
+        <Route path="/resetPassword" element={<ResetPassword />} />  */}
       </Routes>
 
       {openChat && (
