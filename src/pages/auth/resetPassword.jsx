@@ -1,5 +1,5 @@
 import React from "react";
-import { useState, useEffect, useRef, useTranslation } from "react";
+import { useState, useEffect, useRef} from "react";
 import { useLocation } from "react-router-dom";
 import { FaSignInAlt } from "react-icons/fa";
 import { ToastContainer, toast } from "react-toastify";
@@ -9,6 +9,7 @@ import { FaUserGraduate } from "react-icons/fa";
 import { FaLock } from "react-icons/fa";
 import { FaUnlockKeyhole } from "react-icons/fa6";
 import { Link } from "react-router-dom";
+import { useTranslation } from "react-i18next";
 
 const ResetPassword = () => {
 

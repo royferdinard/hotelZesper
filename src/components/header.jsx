@@ -220,7 +220,7 @@ const Header = () => {
 
             {/* NAV */}
             <div className="p-4 overflow-y-auto h-full pb-32">
-              <nav className="flex flex-col gap-1">
+              <nav className="flex flex-col gap-1 pb-8">
                 {navLinks.map((link) => (
                   <Link
                     key={link.path}

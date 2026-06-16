@@ -1,5 +1,5 @@
 import React from "react";
-import { useState, useEffect, useRef, useTranslation } from "react";
+import { useState, useEffect, useRef} from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import { FaSignInAlt } from "react-icons/fa";
 import { ToastContainer, toast } from "react-toastify";
@@ -10,6 +10,7 @@ import { Link } from "react-router-dom";
 import { HotelIcon } from "lucide-react";
 import Login from "./login";
 import { X } from "lucide-react";
+import { useTranslation } from "react-i18next";
 
 const SignUp = ({ closing }) => {
 
