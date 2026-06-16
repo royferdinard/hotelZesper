@@ -1443,6 +1443,78 @@
   "★★★ Good": "★★★ Nzuri",
   "★★ Fair": "★★ Wastani",
   "★ Poor": "★ Duni",
-  " Our support team is available 24/7 to assist you with bookings, account issues, and hotel services.": "Timu yetu ya msaada inapatikana saa 24/7 kukusaidia kuhusu uhifadhi wa nafasi, matatizo ya akaunti, na huduma za hoteli."
-  
+  " Our support team is available 24/7 to assist you with bookings, account issues, and hotel services.": "Timu yetu ya msaada inapatikana saa 24/7 kukusaidia kuhusu uhifadhi wa nafasi, matatizo ya akaunti, na huduma za hoteli.",
+
+  "Welcome to Hotel Zesper. These Terms and Conditions govern your use of our website, services, and booking system.": "Karibu Hotel Zesper. Sheria na Masharti haya yanaongoza matumizi yako ya tovuti yetu, huduma, na mfumo wa kuhifadhi nafasi.",
+
+  "By accessing or using our website, you agree to comply with and be bound by these Terms. If you do not agree, please do not use our services.": "Kwa kuingia au kutumia tovuti yetu, unakubali kufuata na kufungwa na Sheria hizi. Ikiwa hukubaliani nazo, tafadhali usitumie huduma zetu.",
+
+  "These Terms apply to all visitors, guests, and users of Hotel Zesper’s online platform.": "Sheria hizi zinawahusu wageni wote, wateja, na watumiaji wa jukwaa la mtandaoni la Hotel Zesper.",
+
+  "You must be at least 18 years old or have legal guardian consent to use our booking services.": "Lazima uwe na umri wa angalau miaka 18 au uwe na idhini ya mlezi wa kisheria kutumia huduma zetu za kuhifadhi nafasi.",
+
+  "You agree to use this website only for lawful purposes and in a way that does not violate the rights of others or restrict their use of the platform.": "Unakubali kutumia tovuti hii kwa madhumuni halali pekee na kwa njia isiyokiuka haki za wengine au kuzuia matumizi yao ya jukwaa.",
+
+  "All reservations are subject to availability and confirmation by Hotel Zesper.": "Nafasi zote zinategemea upatikanaji na uthibitisho kutoka Hotel Zesper.",
+
+  "A booking is only considered valid once you receive a confirmation email or message from our system.": "Uhifadhi unachukuliwa kuwa halali tu baada ya kupokea barua pepe au ujumbe wa uthibitisho kutoka mfumo wetu.",
+
+  "We reserve the right to refuse or cancel bookings in cases of fraud, system errors, or policy violations.": "Tunahifadhi haki ya kukataa au kughairi nafasi katika hali za udanganyifu, hitilafu za mfumo, au ukiukaji wa sera.",
+
+  "All prices displayed are subject to change without prior notice until a booking is confirmed.": "Bei zote zilizoonyeshwa zinaweza kubadilika bila taarifa ya awali hadi uhifadhi uthibitishwe.",
+
+  "Payment must be completed through approved and secure payment methods.": "Malipo lazima yafanywe kupitia njia zilizoidhinishwa na salama.",
+
+  "Hotel Zesper is not responsible for charges incurred due to third-party payment providers.": "Hotel Zesper haiwajibiki kwa ada au gharama zinazotokana na watoa huduma wa malipo wa nje.",
+
+  "Cancellations must be made within the allowed time frame to qualify for a refund.": "Kughairi lazima kufanyike ndani ya muda ulioruhusiwa ili kustahiki marejesho.",
+
+  "Late cancellations or no-shows may result in partial or full charges depending on the booking policy.": "Kughairi kwa kuchelewa au kutofika kunaweza kusababisha kutozwa sehemu au gharama kamili kulingana na sera ya uhifadhi.",
+
+  "Refunds, if applicable, will be processed using the original payment method.": "Marejesho, ikiwa yanastahili, yatafanywa kupitia njia ile ile ya awali ya malipo.",
+
+  "Users must provide accurate and complete information when making reservations.": "Watumiaji lazima watoe taarifa sahihi na kamili wanapofanya uhifadhi.",
+
+  "You are responsible for maintaining the confidentiality of your account and booking details.": "Unawajibika kuhifadhi siri ya akaunti yako na taarifa za uhifadhi.",
+
+  "Any misuse of the platform may result in suspension or termination of access.": "Matumizi mabaya ya jukwaa yanaweza kusababisha kusimamishwa au kufutwa kwa ufikiaji.",
+
+  "Hotel Zesper shall not be held liable for indirect, incidental, or consequential damages arising from the use of our services.": "Hotel Zesper haitawajibika kwa madhara ya moja kwa moja au yasiyo ya moja kwa moja yanayotokana na matumizi ya huduma zetu.",
+
+  "We are not responsible for delays, interruptions, or failures caused by third-party systems or force majeure events.": "Hatuwajibiki kwa ucheleweshaji, kukatika kwa huduma, au matatizo yanayosababishwa na mifumo ya nje au matukio ya nguvu kubwa.",
+
+  "Hotel Zesper reserves the right to modify or update these Terms at any time without prior notice.": "Hotel Zesper ina haki ya kubadilisha au kusasisha Sheria hizi wakati wowote bila taarifa ya awali.",
+
+  "Continued use of our services after changes are published means you accept the updated Terms.": "Kuendelea kutumia huduma zetu baada ya mabadiliko kuchapishwa kunamaanisha unakubali Sheria zilizosasishwa.",
+
+  "If you have any questions regarding these Terms and Conditions, you may contact us.": "Ikiwa una maswali kuhusu Sheria na Masharti haya, unaweza kuwasiliana nasi.",
+
+  "At Hotel Zesper, your privacy matters. This policy explains how we collect, store, and protect personal information when you use our website or services.": "Katika Hotel Zesper, faragha yako ni muhimu. Sera hii inaeleza jinsi tunavyokusanya, kuhifadhi na kulinda taarifa zako binafsi unapotumia tovuti yetu au huduma zetu.",
+
+  "Hotel Zesper respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard information when you access our website, make reservations, or interact with our hospitality services.": "Hotel Zesper inaheshimu faragha yako na imejizatiti kulinda taarifa zako binafsi. Sera hii ya Faragha inaeleza jinsi tunavyokusanya, kutumia, kufichua na kulinda taarifa unapofikia tovuti yetu, kufanya uhifadhi au kutumia huduma zetu za hoteli.",
+
+  "By using hotelzesper.com, booking accommodations, or engaging with our services, you agree to the collection and use of information in accordance with this Privacy Policy.": "Kwa kutumia hotelzesper.com, kuweka nafasi ya malazi au kutumia huduma zetu, unakubali ukusanyaji na matumizi ya taarifa kulingana na Sera hii ya Faragha.",
+
+  "This Privacy Policy applies to all guests, visitors, and users of our website and hotel-related services.": "Sera hii ya Faragha inawahusu wageni wote, watembeleaji na watumiaji wa tovuti yetu pamoja na huduma za hoteli.",
+
+  "Our website may contain links to third-party websites or booking services not controlled by Hotel Zesper.": "Tovuti yetu inaweza kuwa na viungo vya tovuti za watu wengine zisizodhibitiwa na Hotel Zesper.",
+
+  "We are not responsible for the content, privacy practices, or policies of external websites. We encourage users to review third-party privacy policies.": "Hatuwajibiki kwa maudhui au sera za tovuti za nje. Tunashauri watumiaji kuzisoma sera hizo.",
+
+  "Hotel Zesper does not knowingly collect personal information from children without appropriate parental or legal guardian consent.": "Hotel Zesper haiwezi kukusanya taarifa za watoto bila idhini ya mzazi au mlezi.",
+
+  "If we become aware that information from a child has been collected improperly, we will take reasonable steps to remove it.": "Tukigundua taarifa za mtoto zimekusanywa isivyo sahihi, tutachukua hatua kuziondoa.",
+
+  "Your information may be processed or stored in countries outside your own jurisdiction where privacy laws may differ.": "Taarifa zako zinaweza kuchakatwa au kuhifadhiwa katika nchi nyingine zenye sheria tofauti za faragha.",
+
+  "By using our services, you consent to the transfer and processing of information where legally permitted.": "Kwa kutumia huduma zetu, unakubali uhamisho na uchakataji wa taarifa zako pale inaporuhusiwa kisheria.",
+
+  "Hotel Zesper may update this Privacy Policy periodically to reflect operational, legal, or regulatory changes.": "Hotel Zesper inaweza kusasisha Sera hii ya Faragha mara kwa mara kulingana na mabadiliko ya kisheria au kiutendaji.",
+
+  "Updated versions will be posted on this page with a revised 'Last Updated' date.": "Matoleo yaliyosasishwa yatachapishwa hapa na tarehe mpya ya 'Ilisasishwa mwisho'.",
+
+  "If you have questions about this Privacy Policy or how your information is handled, please contact us.": "Ikiwa una maswali kuhusu Sera hii ya Faragha au jinsi taarifa zako zinavyoshughulikiwa, tafadhali wasiliana nasi.",
+  "Hotel Zesper uses cookies and related technologies to enhance website performance, personalize guest experiences, analyze traffic, and improve our hospitality services.": "Hotel Zesper hutumia vidakuzi na teknolojia zinazofanana kuboresha utendaji wa tovuti, kubinafsisha uzoefu wa wageni, kuchambua trafiki na kuboresha huduma zetu za hoteli.",
+
+  "Hotel Zesper uses cookies to improve your browsing experience, personalize content, analyze website traffic, and provide better hospitality services.": "Hotel Zesper hutumia vidakuzi kuboresha uzoefu wako wa kuvinjari, kubinafsisha maudhui, kuchambua trafiki ya tovuti na kutoa huduma bora za hoteli."
 }
