@@ -119,125 +119,138 @@ const sections = [
 
 const PrivacyPolicy = () => {
 
-    const { t, i18n } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const scrollToSection = (id) => {
+    const el = document.getElementById(id);
 
+    if (el) {
+      el.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
+    }
+  };
   return (
-<>
-    <div className="bg-linear-to-b from-slate-100 to-white dark:from-slate-900 dark:to-slate-950 min-h-screen py-8 px-4 md:px-4 pt-25">
-      <div className="max-w-7xl mx-auto flex flex-col lg:flex-row gap-4">
+    <>
+      <div className="bg-linear-to-b from-slate-100 to-white dark:from-slate-900 dark:to-slate-950 min-h-screen py-8 px-4 md:px-4 pt-25">
+        <div className="max-w-7xl mx-auto flex flex-col lg:flex-row gap-4">
 
-        {/* SIDEBAR */}
-        <aside className="lg:w-[320px] lg:sticky lg:top-24 h-fit">
-          <div className="bg-white dark:bg-slate-900 rounded-md border border-slate-200 dark:border-slate-700 shadow-sm overflow-hidden">
+          {/* SIDEBAR */}
+          <aside className="lg:w-[320px] lg:sticky lg:top-24 h-fit">
+            <div className="bg-white dark:bg-slate-900 rounded-md border border-slate-200 dark:border-slate-700 shadow-sm overflow-hidden">
 
-            <div className="bg-blue-900 p-6 text-white">
+              <div className="bg-blue-900 p-6 text-white">
 
-              <p className={t("uppercase tracking-[3px] text-sm text-blue-200")}>
-                {t("Hotel Zesper")}
-              </p>
+                <p className={t("uppercase tracking-[3px] text-sm text-blue-200")}>
+                  {t("Hotel Zesper")}
+                </p>
 
-              <h2 className="text-2xl font-bold mt-2">
-                {t("Privacy Policy")}
-              </h2>
+                <h2 className="text-2xl font-bold mt-2">
+                  {t("Privacy Policy")}
+                </h2>
 
-              <p className="text-blue-100 text-sm mt-3 leading-6">
-                {t("Learn how we collect, use, and protect your information.")}
-              </p>
+                <p className="text-blue-100 text-sm mt-3 leading-6">
+                  {t("Learn how we collect, use, and protect your information.")}
+                </p>
 
-              <p className="text-xs text-blue-200 mt-4">
-                {t("Last Updated: June 8, 2026")}
-              </p>
+                <p className="text-xs text-blue-200 mt-4">
+                  {t("Last Updated: June 8, 2026")}
+                </p>
+              </div>
+
+              <div className="p-5">
+                <h3 className="font-semibold text-slate-800 dark:text-slate-200 mb-4">
+                  {t("Table of Contents")}
+                </h3>
+
+                <ul className="space-y-2">
+                  {sections.map((section, index) => (
+                    <li key={section.id}>
+                      <a
+                        onClick={(e) => {
+                          e.preventDefault();
+                          scrollToSection(section.id);
+                        }}
+                        href={`#${section.id}`}
+                        className="group flex items-center gap-3 p-3 rounded-xl transition hover:bg-blue-50 dark:hover:bg-slate-700 cursor-pointer"
+                      >
+                        <div className="w-9 h-9 rounded-full bg-slate-100 dark:bg-slate-700 flex items-center justify-center text-sm font-semibold group-hover:bg-blue-600 group-hover:text-white transition">
+                          {index + 1}
+                        </div>
+
+                        <span className="text-sm text-slate-600 dark:text-slate-300 group-hover:text-blue-700">
+                          {t(section.title)}
+                        </span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+
             </div>
+          </aside>
 
-            <div className="p-5">
-              <h3 className="font-semibold text-slate-800 dark:text-slate-200 mb-4">
-                {t("Table of Contents")}
-              </h3>
+          {/* CONTENT */}
+          <main className="flex-1">
+            <div className="bg-white dark:bg-slate-900 rounded-md border border-slate-200 dark:border-slate-700 shadow-sm overflow-hidden">
 
-              <ul className="space-y-2">
+              {/* HERO */}
+              <div className="bg-blue-900 px-8 md:px-10 py-8 text-white">
+                <p className="uppercase tracking-[4px] text-blue-200 text-sm">
+                  {t("Legal Information")}
+                </p>
+
+                <h1 className="text-xl md:text-2xl font-bold mt-2 tracking-[1px]">
+                  {t("Privacy Policy")}
+                </h1>
+
+                <p className="mt-2 text-blue-100 max-w-3xl tracking-[1px] text-sm leading-8">
+                  {t("At Hotel Zesper, your privacy matters. This policy explains how we collect, store, and protect personal information when you use our website or services.")}
+                </p>
+              </div>
+
+              {/* SECTIONS */}
+              <div className="p-6 md:p-12 space-y-8">
                 {sections.map((section, index) => (
-                  <li key={section.id}>
-                    <a
-                      href={`#${section.id}`}
-                      className="group flex items-center gap-3 p-3 rounded-xl hover:bg-blue-50 dark:hover:bg-slate-800 transition"
-                    >
-                      <div className="w-9 h-9 rounded-full bg-slate-100 dark:bg-slate-700 flex items-center justify-center text-sm font-semibold group-hover:bg-blue-600 group-hover:text-white transition">
+                  <section
+                    key={section.id}
+                    id={section.id}
+                    className="scroll-mt-28 bg-slate-50 dark:bg-slate-800 rounded-2xl border border-slate-100 dark:border-slate-700 p-6 md:p-8 hover:shadow-md transition"
+                  >
+                    <div className="flex gap-4 items-start mb-6">
+                      <div className="w-10 h-10 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold">
                         {index + 1}
                       </div>
 
-                      <span className="text-sm text-slate-600 dark:text-slate-300 group-hover:text-blue-700">
-                        {t(section.title)}
-                      </span>
-                    </a>
-                  </li>
+                      <div>
+                        <h2 className="text-xl md:text-2xl font-bold text-slate-900 dark:text-slate-100">
+                          {t(section.title)}
+                        </h2>
+
+                        <div className="w-16 h-1 bg-blue-600 rounded-full mt-3"></div>
+                      </div>
+                    </div>
+
+                    <div className="space-y-5 md:ml-16">
+                      {section.content.map((paragraph, i) => (
+                        <p
+                          key={i}
+                          className="text-slate-600 dark:text-slate-300 leading-8 text-sm md:text-base"
+                        >
+                          {t(paragraph)}
+                        </p>
+                      ))}
+                    </div>
+                  </section>
                 ))}
-              </ul>
+              </div>
+
             </div>
-
-          </div>
-        </aside>
-
-        {/* CONTENT */}
-        <main className="flex-1">
-          <div className="bg-white dark:bg-slate-900 rounded-md border border-slate-200 dark:border-slate-700 shadow-sm overflow-hidden">
-
-            {/* HERO */}
-            <div className="bg-blue-900 px-8 md:px-10 py-8 text-white">
-              <p className="uppercase tracking-[4px] text-blue-200 text-sm">
-                {t("Legal Information")}
-              </p>
-
-              <h1 className="text-xl md:text-2xl font-bold mt-2 tracking-[1px]">
-                {t("Privacy Policy")}
-              </h1>
-
-              <p className="mt-2 text-blue-100 max-w-3xl tracking-[1px] text-sm leading-8">
-                {t("At Hotel Zesper, your privacy matters. This policy explains how we collect, store, and protect personal information when you use our website or services.")}
-              </p>
-            </div>
-
-            {/* SECTIONS */}
-            <div className="p-6 md:p-12 space-y-8">
-              {sections.map((section, index) => (
-                <section
-                  key={section.id}
-                  id={section.id}
-                  className="scroll-mt-28 bg-slate-50 dark:bg-slate-800 rounded-2xl border border-slate-100 dark:border-slate-700 p-6 md:p-8 hover:shadow-md transition"
-                >
-                  <div className="flex gap-4 items-start mb-6">
-                    <div className="w-10 h-10 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold">
-                      {index + 1}
-                    </div>
-
-                    <div>
-                      <h2 className="text-xl md:text-2xl font-bold text-slate-900 dark:text-slate-100">
-                        {t(section.title)}
-                      </h2>
-
-                      <div className="w-16 h-1 bg-blue-600 rounded-full mt-3"></div>
-                    </div>
-                  </div>
-
-                  <div className="space-y-5 md:ml-16">
-                    {section.content.map((paragraph, i) => (
-                      <p
-                        key={i}
-                        className="text-slate-600 dark:text-slate-300 leading-8 text-sm md:text-base"
-                      >
-                        {t(paragraph)}
-                      </p>
-                    ))}
-                  </div>
-                </section>
-              ))}
-            </div>
-
-          </div>
-        </main>
+          </main>
+        </div>
       </div>
-    </div>
-<Footer/>
-</>
+      <Footer />
+    </>
   );
 };
 

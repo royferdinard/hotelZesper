@@ -105,6 +105,16 @@ const sections = [
 const CookiesPolicy = () => {
 
   const { t, i18n } = useTranslation();
+  const scrollToSection = (id) => {
+    const el = document.getElementById(id);
+
+    if (el) {
+      el.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
+    }
+  };
 
   return (
     <>
@@ -146,8 +156,12 @@ const CookiesPolicy = () => {
                   {sections.map((section, index) => (
                     <li key={section.id}>
                       <a
+                        onClick={(e) => {
+                          e.preventDefault();
+                          scrollToSection(section.id);
+                        }}
                         href={`#${section.id}`}
-                        className="group flex items-center gap-3 p-3 rounded-xl hover:bg-blue-50 dark:hover:bg-gray-800 transition"
+                        className="group flex items-center gap-3 p-3 rounded-xl transition hover:bg-blue-50 dark:hover:bg-slate-700 cursor-pointer"
                       >
                         <div className="w-9 h-9 rounded-full bg-slate-100 dark:bg-gray-800 flex items-center justify-center text-sm font-semibold group-hover:bg-blue-600 group-hover:text-white transition">
                           {index + 1}
