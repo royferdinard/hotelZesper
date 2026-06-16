@@ -1,6 +1,7 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { useTranslation } from 'react-i18next';
 import Footer from "../components/footer";
+import { useLocation } from "react-router-dom";
 
 const sections = [
   {
@@ -119,7 +120,33 @@ const Terms = () => {
       });
     }
   };
+const location = useLocation();
 
+useEffect(() => {
+  const id = location.hash?.replace("#", "");
+  if (!id) return;
+
+  let attempts = 0;
+
+  const tryScroll = () => {
+    const el = document.getElementById(id);
+
+    if (el) {
+      el.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
+      return;
+    }
+
+    if (attempts < 20) {
+      attempts++;
+      requestAnimationFrame(tryScroll);
+    }
+  };
+
+  requestAnimationFrame(tryScroll);
+}, [location.hash]);
 
   return (
     <>

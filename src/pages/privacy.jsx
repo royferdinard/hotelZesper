@@ -1,6 +1,7 @@
 import React from "react";
 import { useTranslation } from 'react-i18next';
 import Footer from "../components/footer";
+import { useEffect } from "react";
 
 const sections = [
   {
@@ -130,6 +131,47 @@ const PrivacyPolicy = () => {
       });
     }
   };
+
+ useEffect(() => {
+  const scrollToHash = () => {
+    const hash = window.location.hash;
+    if (!hash) return;
+
+    const id = hash.replace("#", "");
+
+    const tryScroll = () => {
+      const el = document.getElementById(id);
+
+      if (el) {
+        el.scrollIntoView({
+          behavior: "smooth",
+          block: "start",
+        });
+        return true;
+      }
+      return false;
+    };
+
+    // retry until DOM is ready (fixes GitHub Pages delay)
+    let attempts = 0;
+    const interval = setInterval(() => {
+      attempts++;
+
+      if (tryScroll() || attempts > 10) {
+        clearInterval(interval);
+      }
+    }, 200);
+  };
+
+  scrollToHash();
+
+  window.addEventListener("hashchange", scrollToHash);
+
+  return () => {
+    window.removeEventListener("hashchange", scrollToHash);
+  };
+}, []);
+
   return (
     <>
       <div className="bg-linear-to-b from-slate-100 to-white dark:from-slate-900 dark:to-slate-950 min-h-screen py-8 px-4 md:px-4 pt-25">
@@ -169,7 +211,17 @@ const PrivacyPolicy = () => {
                       <a
                         onClick={(e) => {
                           e.preventDefault();
-                          scrollToSection(section.id);
+
+                          const el = document.getElementById(section.id);
+
+                          if (el) {
+                            el.scrollIntoView({
+                              behavior: "smooth",
+                              block: "start",
+                            });
+
+                            window.history.pushState(null, "", `#${section.id}`);
+                          }
                         }}
                         href={`#${section.id}`}
                         className="group flex items-center gap-3 p-3 rounded-xl transition hover:bg-blue-50 dark:hover:bg-slate-700 cursor-pointer"

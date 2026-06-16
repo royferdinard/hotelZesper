@@ -1,6 +1,7 @@
 import React from "react";
 import { useTranslation } from 'react-i18next';
 import Footer from "../components/footer";
+import { useEffect } from "react";
 
 const sections = [
   {
@@ -115,6 +116,48 @@ const CookiesPolicy = () => {
       });
     }
   };
+
+  useEffect(() => {
+  let attempts = 0;
+  const maxAttempts = 10;
+
+  const tryScroll = () => {
+    const hash = window.location.hash;
+    if (!hash) return;
+
+    const id = hash.replace("#", "");
+    const el = document.getElementById(id);
+
+    if (el) {
+      el.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
+      return true;
+    }
+
+    return false;
+  };
+
+  const interval = setInterval(() => {
+    attempts++;
+
+    const success = tryScroll();
+
+    if (success || attempts >= maxAttempts) {
+      clearInterval(interval);
+    }
+  }, 200);
+
+  const handleHashChange = () => tryScroll();
+
+  window.addEventListener("hashchange", handleHashChange);
+
+  return () => {
+    clearInterval(interval);
+    window.removeEventListener("hashchange", handleHashChange);
+  };
+}, []);
 
   return (
     <>
