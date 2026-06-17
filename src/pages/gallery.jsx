@@ -201,6 +201,37 @@ import cl10 from '../assets/c10.jfif'
 import li1 from '../assets/client.jpg'
 import li2 from '../assets/client1.jpg'
 import li3 from '../assets/leader.jpg'
+
+
+//videos
+
+//breakfast
+import bv1 from '../assets/videos/breakfast1.mp4'
+import bv2 from '../assets/videos/breakfast2.mp4'
+
+//dinner
+import dv1 from '../assets/videos/dinner1.mp4'
+
+//dinning
+import dnv1 from '../assets/videos/dinning.mp4'
+import dnv2 from '../assets/videos/dinning2.mp4'
+import dnv3 from '../assets/videos/dinning3.mp4'
+
+//drinks
+import drv1 from '../assets/videos/drink1.mp4'
+
+//hotel
+import htv1 from '../assets/videos/hotel1.mp4'
+import htv2 from '../assets/videos/hotel2.mp4'
+import htv3 from '../assets/videos/hotel3.mp4'
+import htv4 from '../assets/videos/hotel4.mp4'
+
+//rooms
+import rmv1 from '../assets/videos/room1.mp4'
+import rmv2 from '../assets/videos/room2.mp4'
+import rmv3 from '../assets/videos/room3.mp4'
+import rmv4 from '../assets/videos/room4.mp4'
+import rmv5 from '../assets/videos/room5.mp4'
 const categories = [
   "breakfast",
   "dinner",
@@ -260,10 +291,10 @@ const imageData = {
     { id: 21, src: d21, alt: "Dinner 21" },
     { id: 22, src: d22, alt: "Dinner 22" },
     { id: 23, src: d23, alt: "Dinner 23" },
-     { id: 9, src: d9, alt: "Dinner 9" },
+    { id: 9, src: d9, alt: "Dinner 9" },
   ],
   lunch: [
-     { id: 1, src: l1, alt: "Dinner 1" },
+    { id: 1, src: l1, alt: "Dinner 1" },
     { id: 2, src: l2, alt: "Dinner 2" },
     { id: 3, src: l3, alt: "Dinner 3" },
     { id: 4, src: l4, alt: "Dinner 4" },
@@ -312,8 +343,8 @@ const imageData = {
     { id: 21, src: s21, alt: "Dinner 21" },
     { id: 22, src: s22, alt: "Dinner 22" },
     { id: 23, src: s23, alt: "Dinner 23" },
-     { id: 9, src: s24, alt: "Dinner 9" },
-      { id: 9, src: s25, alt: "Dinner 9" },
+    { id: 9, src: s24, alt: "Dinner 9" },
+    { id: 9, src: s25, alt: "Dinner 9" },
   ],
   drinks: [
     { id: 1, src: dr1, alt: "Dinner 1" },
@@ -363,7 +394,7 @@ const imageData = {
     { id: 18, src: r18, alt: "Dinner 18" },
     { id: 19, src: r19, alt: "Dinner 19" },
     { id: 20, src: r20, alt: "Dinner 20" },
-      { id: 1, src: h1, alt: "Dinner 1" },
+    { id: 1, src: h1, alt: "Dinner 1" },
     { id: 2, src: h2, alt: "Dinner 2" },
     { id: 3, src: h3, alt: "Dinner 3" },
     { id: 4, src: h4, alt: "Dinner 4" },
@@ -375,7 +406,7 @@ const imageData = {
     { id: 10, src: h10, alt: "Dinner 10" },
     { id: 11, src: h11, alt: "Dinner 11" },
     { id: 12, src: h12, alt: "Dinner 12" },
-   
+
   ],
   hotel: [
     { id: 1, src: ht1, alt: "Dinner 1" },
@@ -386,7 +417,7 @@ const imageData = {
     { id: 6, src: ht6, alt: "Dinner 6" },
   ],
   dinning: [
-      { id: 1, src: dn1, alt: "Dinner 1" },
+    { id: 1, src: dn1, alt: "Dinner 1" },
     { id: 2, src: dn2, alt: "Dinner 2" },
     { id: 3, src: dn3, alt: "Dinner 3" },
     { id: 4, src: dn4, alt: "Dinner 4" },
@@ -400,15 +431,15 @@ const imageData = {
     // { id: 12, src: dn12, alt: "Dinner 12" },
   ],
   parking: [
-     { id: 9, src: p1, alt: "Dinner 9" },
-     { id: 9, src: p2, alt: "Dinner 9" },
-     { id: 9, src: p3, alt: "Dinner 9" },
-     { id: 9, src: p4, alt: "Dinner 9" },
-     { id: 9, src: p5, alt: "Dinner 9" },
-     { id: 9, src: p6, alt: "Dinner 9" },
+    { id: 9, src: p1, alt: "Dinner 9" },
+    { id: 9, src: p2, alt: "Dinner 9" },
+    { id: 9, src: p3, alt: "Dinner 9" },
+    { id: 9, src: p4, alt: "Dinner 9" },
+    { id: 9, src: p5, alt: "Dinner 9" },
+    { id: 9, src: p6, alt: "Dinner 9" },
   ],
   celebration: [
-      { id: 1, src: cl1, alt: "Dinner 1" },
+    { id: 1, src: cl1, alt: "Dinner 1" },
     { id: 2, src: cl2, alt: "Dinner 2" },
     { id: 3, src: cl3, alt: "Dinner 3" },
     { id: 4, src: cl4, alt: "Dinner 4" },
@@ -419,10 +450,54 @@ const imageData = {
     { id: 9, src: cl9, alt: "Dinner 9" },
   ],
   leadership: [
-      { id: 1, src: li1, alt: "Dinner 1" },
+    { id: 1, src: li1, alt: "Dinner 1" },
     { id: 2, src: li2, alt: "Dinner 2" },
     { id: 2, src: li3, alt: "Dinner 2" },
   ],
+};
+
+const videoData = {
+  breakfast: [
+    { id: 1, src: bv1, title: "Breakfast Video 1" },
+    { id: 2, src: bv2, title: "Breakfast Video 2" },
+  ],
+
+  dinner: [
+    { id: 1, src: dv1, title: "Dinner Video 1" },
+  ],
+
+  lunch: [],
+
+  supper: [],
+
+  drinks: [
+    { id: 1, src: drv1, title: "Drinks Video 1" },
+  ],
+
+  rooms: [
+    { id: 1, src: rmv1 },
+    { id: 2, src: rmv2 },
+    { id: 3, src: rmv3 },
+    { id: 4, src: rmv4 },
+    { id: 5, src: rmv5 },
+  ],
+
+  hotel: [
+    { id: 1, src: htv1 },
+    { id: 2, src: htv2 },
+    { id: 3, src: htv3 },
+    { id: 4, src: htv4 },
+  ],
+
+  dinning: [
+    { id: 1, src: dnv1 },
+    { id: 2, src: dnv2 },
+    { id: 3, src: dnv3 },
+  ],
+
+  parking: [],
+  celebration: [],
+  leadership: [],
 };
 
 const Gallery = () => {
@@ -448,22 +523,20 @@ const Gallery = () => {
       <div className="flex justify-center gap-4 pt-6 p-4 dark:bg-slate-900">
         <button
           onClick={() => setActiveTab("images")}
-          className={`w-[48%] h-12 md:w-40 rounded-md font-bold transition-all hover:-translate-y-0.5 ${
-            activeTab === "images"
-              ? "bg-blue-900 text-white dark:bg-blue-600"
-              : "bg-white dark:bg-slate-900 text-blue-900 dark:text-white border-blue-900 border-2 dark:border-slate-700"
-          }`}
+          className={`w-[48%] h-12 md:w-40 rounded-md font-bold transition-all hover:-translate-y-0.5 ${activeTab === "images"
+            ? "bg-blue-900 text-white dark:bg-blue-600"
+            : "bg-white dark:bg-slate-900 text-blue-900 dark:text-white border-blue-900 border-2 dark:border-slate-700"
+            }`}
         >
           {t("Images")}
         </button>
 
         <button
           onClick={() => setActiveTab("videos")}
-          className={`w-[48%] h-12 md:w-40 rounded-md font-bold transition-all hover:-translate-y-0.5 ${
-            activeTab === "videos"
-              ? "bg-blue-900 text-white dark:bg-blue-600"
-              : "bg-white dark:bg-slate-900 text-blue-900 dark:text-white border-blue-900 border-2 dark:border-slate-700"
-          }`}
+          className={`w-[48%] h-12 md:w-40 rounded-md font-bold transition-all hover:-translate-y-0.5 ${activeTab === "videos"
+            ? "bg-blue-900 text-white dark:bg-blue-600"
+            : "bg-white dark:bg-slate-900 text-blue-900 dark:text-white border-blue-900 border-2 dark:border-slate-700"
+            }`}
         >
           {t("Videos")}
         </button>
@@ -475,11 +548,10 @@ const Gallery = () => {
           <button
             key={category}
             onClick={() => setActiveCategory(category)}
-            className={`shrink-0 px-4 py-2 rounded-sm text-sm capitalize transition ${
-              activeCategory === category
-                ? "bg-blue-600 text-white"
-                : "bg-white dark:bg-slate-900 dark:border dark:border-slate-700 text-blue-700 dark:text-gray-200 hover:bg-gray-200 dark:hover:bg-slate-700"
-            }`}
+            className={`shrink-0 px-4 py-2 rounded-sm text-sm capitalize transition ${activeCategory === category
+              ? "bg-blue-600 text-white"
+              : "bg-white dark:bg-slate-900 dark:border dark:border-slate-700 text-blue-700 dark:text-gray-200 hover:bg-gray-200 dark:hover:bg-slate-700"
+              }`}
           >
             {t(category)}
           </button>
@@ -490,26 +562,47 @@ const Gallery = () => {
       <div className="px-6 dark:bg-slate-800 md:px-4 mt-0">
         {activeTab === "images" ? (
           <div className="flex flex-col dark:bg-slate-800 items-center py-8 md:py-4 justify-center md:flex-row flex-wrap w-full gap-4">
-            {imageData[activeCategory]?.map((img) => (
-              <div
-                key={img.id}
-                className="overflow-hidden rounded-sm p-2 shadow-sm bg-white dark:bg-slate-900 dark:border dark:border-slate-700 hover:scale-102 transition duration-300 w-full h-60 md:w-100"
-              >
-                <img
-                  src={img.src}
-                  alt={img.alt}
-                  className="w-full h-full object-cover"
-                />
+            {imageData[activeCategory]?.length > 0 ? (
+              imageData[activeCategory].map((img) => (
+                <div
+                  key={`${activeCategory}-${img.id}`}
+                  className="overflow-hidden rounded-sm p-2 shadow-sm bg-white dark:bg-slate-900 dark:border dark:border-slate-700 hover:scale-102 transition duration-300 w-full h-60 md:w-100"
+                >
+                  <img
+                    src={img.src}
+                    alt={img.alt}
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+              ))
+            ) : (
+              <div className="text-center w-full py-10 text-gray-500 dark:text-gray-300">
+                {t("No images available for")} {t(activeCategory)}
               </div>
-            ))}
+            )}
           </div>
         ) : (
-          <div className="overflow-hidden rounded-sm p-2 shadow-sm bg-white dark:bg-slate-800 hover:scale-102 transition duration-300 w-full md:w-100 h-70 my-6">
-            <video
-              controls
-              className="w-full rounded-sm shadow-sm h-full"
-              src="https://cdn.pixabay.com/video/2023/03/07/153987-805945630_large.mp4"
-            />
+          <div className="flex flex-col md:flex-row flex-wrap gap-4 py-6 justify-center">
+            {videoData[activeCategory]?.length > 0 ? (
+              videoData[activeCategory].map((video) => (
+                <div
+                  key={video.id}
+                  className="overflow-hidden rounded-sm p-2 shadow-sm bg-white dark:bg-slate-900 dark:border dark:border-slate-700 w-full md:w-100 h-70"
+                >
+                  <video
+                    controls
+                    className="w-full h-full rounded-sm object-cover"
+                  >
+                    <source src={video.src} type="video/mp4" />
+                    {t('Your browser does not support the video tag.')}
+                  </video>
+                </div>
+              ))
+            ) : (
+              <div className="text-center w-full py-10 text-gray-500 dark:text-gray-300">
+                {t('No videos available for')} {t(activeCategory)}
+              </div>
+            )}
           </div>
         )}
       </div>
